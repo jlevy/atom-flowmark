@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Flowmark",
+          "submenu": [
+            {
+              "label": "Reformat Markdown",
+              "command": "flowmark:reformat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
