@@ -19,7 +19,7 @@
               "command": "flowmark:reformatWrap"
             },
             {
-              "label": "Reformat and smart quotes (only)",
+              "label": "Smart quotes and dashes (only)",
               "command": "flowmark:smartQuotes"
             }
           ]
