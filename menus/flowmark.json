@@ -7,8 +7,20 @@
           "label": "Flowmark",
           "submenu": [
             {
-              "label": "Reformat Markdown",
-              "command": "flowmark:reformat"
+              "label": "Reformat all",
+              "command": "flowmark:all"
+            },
+            {
+              "label": "Reformat (only)",
+              "command": "flowmark:reformatPlain"
+            },
+            {
+              "label": "Reformat and wrap (only)",
+              "command": "flowmark:reformatWrap"
+            },
+            {
+              "label": "Reformat and smart quotes (only)",
+              "command": "flowmark:smartQuotes"
             }
           ]
         }

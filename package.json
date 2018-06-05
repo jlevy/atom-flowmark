@@ -5,7 +5,7 @@
   "description": "Reflow and reformat Markdown",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "flowmark:reformat"
+    "atom-workspace": "flowmark:all"
   },
   "repository": "git@github.com:jlevy/atom-flowmark.git",
   "author": "Joshua Levy <josh@holloway.com>",
@@ -16,6 +16,9 @@
   "dependencies": {
     "remark-parse": "^5.0.0",
     "remark-stringify": "^5.0.0",
+    "remark-textr": "^3.0.1",
+    "typographic-ellipses": "^1.0.11",
+    "typographic-quotes": "^2.0.1",
     "unified": "^7.0.0",
     "unist-util-is": "^2.1.2",
     "unist-util-parents": "^1.0.0",
