@@ -2,7 +2,7 @@
   "name": "flowmark",
   "main": "./lib/flowmark",
   "version": "0.1.0",
-  "description": "Reflow and reformat Markdown",
+  "description": "An intelligent, collaboration-friendly auto-formatter for Markdown",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [

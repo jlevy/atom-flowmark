@@ -12,11 +12,13 @@ person writing, but to minimize the *confusing diffs* and *merge conflicts* comm
 paragraph-long lines on large GitHub-hosted files.
 It does this by preferring line breaks on sentence boundaries when they are reasonable.
 Also wraps links intelligently, so they don’t bungle up your paragraphs.
-(Look at the source to this file for an example.)
+(Take a look at the source to this file for an example.
+And see [this discussion](https://github.com/shurcooL/markdownfmt/issues/17) for more
+details.)
 
 The hope is you can run it any time to clean up your Markdown consistently.
 It helps to use [line-diff-details-plus](https://atom.io/packages/line-diff-details-plus)
-or something similar to see changes.
+or something similar to see and review changes before saving.
 
 Other features:
 
@@ -25,8 +27,11 @@ Other features:
   [Textr](https://github.com/A/textr).
 - Switches to smart quotes, dashes, and the like (by default).
 
-Alternatives: Auto-formatting Markdown has been done before, notably
+**Alternatives:** Auto-formatting Markdown has been done before, notably
 [atom-tidy-markdown](https://github.com/slang800/atom-tidy-markdown) (also used in
 [atom-beautify](https://github.com/Glavin001/atom-beautify)) and
 [atom-markdown-format](https://github.com/shurcooL-legacy/atom-markdown-format) (now
 deprecated). These don’t try to reflow text, however.
+A related approach, just to detect errors, is
+[linter-markdown](https://github.com/AtomLinter/linter-markdown), which uses
+[remark-lint](https://github.com/remarkjs/remark-lint)’s framework in Atom.
