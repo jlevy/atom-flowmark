@@ -7,7 +7,7 @@ It’s a bit like if
 [semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/) had a
 baby.
 
-Why line wrap markdown? This is useful not just for the appearance of the Markdown to the
+**Why line wrap markdown?** This is useful not just for the appearance of the Markdown to the
 person writing, but to minimize the *confusing diffs* and *merge conflicts* common with
 paragraph-long lines on large GitHub-hosted files.
 It does this by preferring line breaks on sentence boundaries when they are reasonable.
@@ -16,7 +16,9 @@ Also wraps links intelligently, so they don’t bungle up your paragraphs.
 And see [this discussion](https://github.com/shurcooL/markdownfmt/issues/17) for more
 details.)
 
-The hope is you can run it any time to clean up your Markdown consistently.
+The hope is that you—or anyone else you collaborate with—can run it any time to clean up
+your Markdown consistently.
+Formatting rules can be complex, as long as they’re consistent.
 It helps to use [line-diff-details-plus](https://atom.io/packages/line-diff-details-plus)
 or something similar to see and review changes before saving.
 
