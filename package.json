@@ -12,7 +12,7 @@
       "flowmark:smartQuotes"
     ]
   },
-  "repository": "git@github.com:jlevy/atom-flowmark.git",
+  "repository": "https://github.com/jlevy/atom-flowmark.git",
   "author": "Joshua Levy <josh@holloway.com>",
   "license": "MIT",
   "engines": {
