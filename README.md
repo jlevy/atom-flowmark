@@ -19,16 +19,21 @@ details.)
 The hope is that you—or anyone else you collaborate with—can run it any time to clean up
 your Markdown consistently.
 Note that formatting rules can be complex, as long as they’re consistent.
-It helps to use [line-diff-details-plus](https://atom.io/packages/line-diff-details-plus)
-or [GitHub Desktop](https://desktop.github.com/), or something similar to see and review
-changes before saving.
 
-Other features:
+**Other features:**
 
 - Full, deterministic Markdown support, based on
   [Remark](https://github.com/remarkjs/remark) and typographic fixes via
   [Textr](https://github.com/A/textr).
 - Switches to smart quotes, dashes, and the like (by default).
+
+**Installation and use:** Install as usual in Atom, by going to preferences, select install,
+and search for “flowmark”. You’ll then have a Flowmark menu item under “Packages.”
+Or use the hot key Shift-Cmd-M to reformat the whole doc.
+
+It helps to use [line-diff-details-plus](https://atom.io/packages/line-diff-details-plus),
+[GitHub Desktop](https://desktop.github.com/), or something similar to see and review
+changes before saving or committing.
 
 **Alternatives and previous work:** Auto-formatting Markdown has been done before, notably
 with [tidy-markdown](https://github.com/slang800/tidy-markdown) and
