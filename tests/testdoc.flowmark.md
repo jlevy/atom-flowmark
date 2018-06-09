@@ -119,8 +119,7 @@ advantages:
 ElastiCache Basics:
 
 - 📒 [Homepage](https://aws.amazon.com/elasticache/) ∙
-  [User
-  guide](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide) ∙
+  [User guide](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide) ∙
   [FAQ](https://aws.amazon.com/elasticache/faqs/) ∙
   [Pricing](https://aws.amazon.com/elasticache/pricing/)
 - **ElastiCache** is a managed in-memory cache service, that can be used to store temporary
@@ -149,8 +148,7 @@ ElastiCache Tips:
 - Choose the
   [engine](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/SelectEngine.html),
   clustering configuration and
-  [instance
-  type](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/CacheNodes.SelectSize.html)
+  [instance type](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/CacheNodes.SelectSize.html)
   carefully based on your application needs.
   The documentation explains in detail the pros, cons and limitations of each engine in
   order to help you choose the best fit for your application.
