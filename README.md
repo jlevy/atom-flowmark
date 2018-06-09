@@ -28,7 +28,7 @@ Note that formatting rules can be complex, as long as they’re consistent.
 - Switches to smart quotes, dashes, and the like (by default).
 
 **Installation and use:** Install as usual in Atom, by going to preferences, select install,
-and search for “flowmark”. You’ll then have a Flowmark menu item under “Packages.”
+and search for “flowmark”. You’ll then have a Flowmark menu item under *Packages*.
 Or use the hot key Shift-Cmd-M to reformat the whole doc.
 
 It helps to use [line-diff-details-plus](https://atom.io/packages/line-diff-details-plus),

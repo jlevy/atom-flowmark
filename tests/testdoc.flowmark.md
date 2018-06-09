@@ -6,14 +6,16 @@ Re-run Flowmark and compare output.
 
 ## Some apostrophes and quotes—and dashes, too
 
-“Hello,” he said! “What’s… your specialty (if I may ask)?”
+“Hello,” he said!
+“What’s… your specialty (if I may ask)?”
 
 Cas' surprise at John’s question hung over them both for a brief moment, like a thinly
 disguised sack of potatoes.
 “From 2002–2004 I specialized in the Sarbanes-Oxley Act (Pub.L. 107–204, 116 Stat.
 745, enacted July 30, 2002), which was known (in the House) as the ‘Corporate and Auditing
-Accountability, Responsibility, and Transparency Act’ and—” But here he cut her off! And
-who could blame him? There was no time to lose.
+Accountability, Responsibility, and Transparency Act’ and—” But here he cut her off!
+And who could blame him?
+There was no time to lose.
 
 ### A few paragraphs and bullets
 
@@ -84,15 +86,19 @@ advantages:
   [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there
   with more details about
   [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-  like this.) Information that will help you weigh the offer might be: *What percentage of
-  the company do the shares represent?* *What set of shares was used to compute that
-  percentage (is this really the percentage of all shares, or some subset)?* *What did the
-  last round value the company at? (I.e.
-  the preferred share price times the total outstanding shares)?* *What is the most recent
-  409A valuation? When was it done, and will it be done again soon?* *Do you allow early
-  exercise of my options?* *Are all employees on the same vesting schedule?* *Is there any
-  acceleration of my vesting if the company is acquired?* *Do you have a policy regarding
-  follow-on stock grants?* *Does the company have any repurchase right to vested shares?*
+  like this.) Information that will help you weigh the offer might be: *
+  What percentage of the company do the shares represent?*
+  *What set of shares was used to compute that percentage (is this really the percentage of
+  all shares, or some subset)?*
+  *What did the last round value the company at?
+  (I.e. the preferred share price times the total outstanding shares)?*
+  *What is the most recent 409A valuation?
+  When was it done, and will it be done again soon?*
+  *Do you allow early exercise of my options?*
+  *Are all employees on the same vesting schedule?*
+  *Is there any acceleration of my vesting if the company is acquired?*
+  *Do you have a policy regarding follow-on stock grants?*
+  *Does the company have any repurchase right to vested shares?*
 - Finally, consider the [common scenarios](#common-scenarios) for exercising options,
   discussed below.
 
