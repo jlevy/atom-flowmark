@@ -5,9 +5,11 @@ Re-run Flowmark and compare output.
 
 ## Some apostrophes and quotes--and dashes, too
 
-"Hello," he said! "What's... your specialty (if I may ask)?"
+"Hello," he said! "What's... your specialty?" he enquired (in an idle tone).
 
-Cas' surprise at John's question hung over them both for a brief moment, like a thinly disguised sack of potatoes. "From 2002-2004 I specialized in the Sarbanes-Oxley Act (Pub.L. 107–204, 116 Stat. 745, enacted July 30, 2002), which was known (in the House) as the 'Corporate and Auditing Accountability, Responsibility, and Transparency Act' and--" But here he cut her off! And who could blame him? There was no time to lose.
+Cas' surprise at John's question hung over them both for a brief moment, like a thinly disguised sack of potatoes. "From 2002-2004 I specialized in the Sarbanes-Oxley Act (Pub.L. 107–204, 116 Stat. 745, enacted July 30, 2002), which was known (in the House) as the 'Corporate and Auditing Accountability, Responsibility, and Transparency Act' and--" But here he cut her off! And who could blame him? He had spoken with the FBI. There was no time to lose.
+
+William F. Buckley Jr. was coming to breakfast. Buckley was born November 24, 1925, in [New York City](https://en.wikipedia.org/wiki/New_York_City), the son of Aloise Josephine Antonia (Steiner) and William Frank Buckley Sr., a [Texas](https://en.wikipedia.org/wiki/Texas)-born lawyer and oil developer. His mother, from New Orleans, was of Swiss-German, German, and Irish descent, while his paternal grandparents, from Hamilton, Ontario, Canada, were of Irish ancestry. The sixth of ten children, Buckley moved as a boy with his family to Mexico, and then to Sharon, Connecticut, before beginning his formal schooling in Paris, where he attended first grade. By age seven, he received his first formal training in English at a day school in London; his first and second languages were Spanish and French. As a boy, Buckley developed a love for music, sailing, horses, hunting, and skiing. All of these interests would be reflected in his later writings. Just before World War II, at age 12–13, he attended the Catholic preparatory school [St. John's Beaumont School](https://en.wikipedia.org/wiki/St_John%27s_Beaumont_School) in England.
 
 ### A few paragraphs and bullets
 
