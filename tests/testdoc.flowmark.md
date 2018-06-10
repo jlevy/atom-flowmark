@@ -28,9 +28,8 @@ His mother, from New Orleans, was of Swiss-German, German, and Irish descent, wh
 paternal grandparents, from Hamilton, Ontario, Canada, were of Irish ancestry.
 The sixth of ten children, Buckley moved as a boy with his family to Mexico, and then to
 Sharon, Connecticut, before beginning his formal schooling in Paris, where he attended
-first grade. By age seven, he received his first formal training in English at a day
-school in London;
-his first and second languages were Spanish and French.
+first grade. By age seven, he received his first formal training in English at a day school
+in London; his first and second languages were Spanish and French.
 As a boy, Buckley developed a love for music, sailing, horses, hunting, and skiing.
 All of these interests would be reflected in his later writings.
 Just before World War II, at age 12–13, he attended the Catholic preparatory school
@@ -39,14 +38,13 @@ England.
 
 ### A few paragraphs and bullets
 
-A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**.
-Of course, in reality, varied experience exists within an individual reader.
-Most people may already know *something*, and some people are quicker learners than
-others. Even world class experts most likely only really know parts of a subject, and
-contributors may have practical experience in one role—perhaps they have been an
-entrepreneur, for example, but not an investor.
-So writing with the assumption that each reader could be both has a variety of
-advantages:
+A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of
+course, in reality, varied experience exists within an individual reader.
+Most people may already know *something*, and some people are quicker learners than others.
+Even world class experts most likely only really know parts of a subject, and contributors
+may have practical experience in one role—perhaps they have been an entrepreneur, for
+example, but not an investor.
+So writing with the assumption that each reader could be both has a variety of advantages:
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject
   understand **what they didn’t know they didn’t know**, and fill in the gaps in their
@@ -65,15 +63,15 @@ advantages:
 - ☁️ SaaS / paid services
 - 🚪 Alternatives to the option being discussed
 - 💸 Cost or expense issues, discussion, and gotchas
-- 🕍 A mild warning attached to “full solution” or opinionated frameworks (the cathedral is
-  a nod to [Raymond’s metaphor](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar))
+- 🕍 A mild warning attached to “full solution” or opinionated frameworks (the cathedral is a
+  nod to [Raymond’s metaphor](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar))
 - 🍺 Open source / free software
 
 
 - For well-known people, places, things, and events, prefer linking to the **Wikipedia page**.
-  - If there is a good quality Wikipedia page, prefer it to company or organization home
-    pages, home pages of cities or states or agencies, and other things notable enough to be
-    covered well.
+  - If there is a good quality Wikipedia page, prefer it to company or organization home pages,
+    home pages of cities or states or agencies, and other things notable enough to be covered
+    well.
   - Why? It usually gives a lot more context to the reader, and saves them having to Google to
     find it. It will also help with our search and web page snippet features, since the
     mouseovers on the links will be better quality than for those on marketing pages or poorly
@@ -142,14 +140,13 @@ ElastiCache Basics:
   [User guide](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide) ∙
   [FAQ](https://aws.amazon.com/elasticache/faqs/) ∙
   [Pricing](https://aws.amazon.com/elasticache/pricing/)
-- **ElastiCache** is a managed in-memory cache service, that can be used to store temporary
-  data in a fast in-memory cache, typically in order to avoid repeating the same computation
+- **ElastiCache** is a managed in-memory cache service, that can be used to store temporary data
+  in a fast in-memory cache, typically in order to avoid repeating the same computation
   multiple times when it could be reused.
 - It supports both the [Memcached](https://memcached.org) and [Redis](https://redis.io)
-  open source in-memory cache software and exposes them both using their native access
-  APIs.
-- The main benefit is that AWS takes care of running, patching and optimizing the cache
-  nodes for you, so you just need to launch a cluster and configure its endpoint in your
+  open source in-memory cache software and exposes them both using their native access APIs.
+- The main benefit is that AWS takes care of running, patching and optimizing the cache nodes
+  for you, so you just need to launch a cluster and configure its endpoint in your
   application, while AWS will take of most of the operational work of running the cache
   nodes.
 
@@ -170,14 +167,13 @@ ElastiCache Tips:
   clustering configuration and
   [instance type](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/CacheNodes.SelectSize.html)
   carefully based on your application needs.
-  The documentation explains in detail the pros, cons and limitations of each engine in
-  order to help you choose the best fit for your application.
+  The documentation explains in detail the pros, cons and limitations of each engine in order
+  to help you choose the best fit for your application.
   In a nutshell, Redis is preferable for storing more complex data structures, while
   Memcached is just a plain key/value store.
   The simplicity of Memcached allows it to be slightly faster and allows it to scale out if
   needed, but Redis has more features which you may use in your application.
-- For Memcached AWS provides enhanced SDKs for certain programming languages which
-  implement
+- For Memcached AWS provides enhanced SDKs for certain programming languages which implement
   [auto-discovery](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/AutoDiscovery.html),
   a feature not available in the normal memcached client libraries.
 
@@ -187,10 +183,10 @@ In some cases, **bold**face or *em*phasis or bold**face** or em*phasis* can occu
 intervening whitespace.
 In fact, **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis
 or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **
-bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**
-face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face
-or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*
-phasis* can flow on and on…
+bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face**
+or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis
+or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* can
+flow on and on…
 
 The same is true for links.
 "The [Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) in
