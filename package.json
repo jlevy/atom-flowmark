@@ -1,6 +1,6 @@
 {
   "name": "flowmark",
-  "main": "./lib/flowmark",
+  "main": "./lib/main",
   "version": "0.1.0",
   "description": "An intelligent, collaboration-friendly auto-formatter for Markdown",
   "keywords": [],
@@ -25,7 +25,6 @@
     "textr": "^0.3.0",
     "typographic-apostrophes": "^1.1.1",
     "typographic-ellipses": "^1.0.11",
-    "typographic-em-dash": "^1.0.8",
     "typographic-em-dashes": "^1.0.2",
     "typographic-en-dashes": "^1.0.1",
     "typographic-quotes": "^2.0.1",
