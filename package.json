@@ -26,7 +26,6 @@
     "typographic-quotes": "^2.0.1",
     "unified": "^7.0.0",
     "unist-util-is": "^2.1.2",
-    "unist-util-parents": "^1.0.0",
     "unist-util-visit": "^1.3.1"
   }
 }
