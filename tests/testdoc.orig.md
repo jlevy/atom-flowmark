@@ -45,6 +45,15 @@ A good heuristic is to assume your readers will be **100% intelligent and 100% i
   - Why? It usually gives a lot more context to the reader, and saves them having to Google to find it. It will also help with our search and web page snippet features, since the mouseovers on the links will be better quality than for those on marketing pages or poorly organized or out-of-date official websites.
     - Example: "The [Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) in [California](https://en.wikipedia.org/wiki/California) is home to both [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and [Google](https://en.wikipedia.org/wiki/Google)."
 
+* When an investor is trying to get you to agree to a term you think is unfair, you need to protect your interests without sounding accusatory toward the investor: *“Sorry, I’m just inexperienced, I read/was told that it’s not wise to [term they want you to agree to].”* [[Paul Graham, Y Combinator](http://paulgraham.com/fr.html)]
+* When you want to test a VC’s interest to determine where to put your energy, you don’t want to sound desperate or pushy: *“I know that you’re not likely to give me a strong indication at this meeting, but I’d love to know if this is the* sort *of opportunity you could imagine taking. I'll happily put in the work to persuade you over time! But would I be better off focusing my attention on other VCs?”* [[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
+
+🔹 **Automated and emerging legal services**: Many services like
+[**Stripe Atlas**](https://stripe.com/atlas), **[Atrium](https://www.atrium.co/)**,
+[**Clerky**](https://www.clerky.com/), [*LegalZoom*](https://www.legalzoom.com/), and
+*[UpCounsel](https://www.upcounsel.com/)* automate or simplify tasks and processes provided by
+lawyers. [**Atrium**](https://www.atrium.co/) is a new legal services company worth keeping an
+eye on.
 
 - [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/) is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many taxpayers never worry about. Generally, you do not pay [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14). It also depends on the state you’re in, since your state taxes can significantly affect your deductions. Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax rate, but effectively is **35%** for some ranges, meaning it is [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/). AMT rules are so complicated you often need professional tax help if they might apply to you. The IRS's [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals) might also help.
 

@@ -95,6 +95,25 @@ advantages:
       [Google](https://en.wikipedia.org/wiki/Google)."
 
 
+- When an investor is trying to get you to agree to a term you think is unfair, you need to
+  protect your interests without sounding accusatory toward the investor: *
+  “Sorry, I’m just inexperienced, I read/was told that it’s not wise to
+  [term they want you to agree to].”* \[[Paul Graham, Y Combinator](http://paulgraham.com/fr.html)]
+- When you want to test a VC’s interest to determine where to put your energy, you don’t
+  want to sound desperate or pushy: *
+  “I know that you’re not likely to give me a strong indication at this meeting, but I’d
+  love to know if this is the* sort *of opportunity you could imagine taking.
+  I’ll happily put in the work to persuade you over time!
+  But would I be better off focusing my attention on other VCs?”*
+  \[[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
+
+🔹 **Automated and emerging legal services**: Many services like
+[**Stripe Atlas**](https://stripe.com/atlas), **[Atrium](https://www.atrium.co/)**,
+[**Clerky**](https://www.clerky.com/), [*LegalZoom*](https://www.legalzoom.com/), and
+*[UpCounsel](https://www.upcounsel.com/)* automate or simplify tasks and processes provided by
+lawyers. [**Atrium**](https://www.atrium.co/) is a new legal services company worth keeping an
+eye on.
+
 - [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
   is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many
   taxpayers never worry about.
