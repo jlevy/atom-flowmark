@@ -32,8 +32,9 @@ His mother, from New Orleans, was of Swiss-German, German, and Irish descent, wh
 paternal grandparents, from Hamilton, Ontario, Canada, were of Irish ancestry.
 The sixth of ten children, Buckley moved as a boy with his family to Mexico, and then to
 Sharon, Connecticut, before beginning his formal schooling in Paris, where he attended
-first grade. By age seven, he received his first formal training in English at a day school
-in London; his first and second languages were Spanish and French.
+first grade. By age seven, he received his first formal training in English at a day
+school in London;
+his first and second languages were Spanish and French.
 As a boy, Buckley developed a love for music, sailing, horses, hunting, and skiing.
 All of these interests would be reflected in his later writings.
 Just before World War II, at age 12–13, he attended the Catholic preparatory school
@@ -42,13 +43,14 @@ England.
 
 ### A few paragraphs and bullets
 
-A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of
-course, in reality, varied experience exists within an individual reader.
-Most people may already know *something*, and some people are quicker learners than others.
-Even world class experts most likely only really know parts of a subject, and contributors
-may have practical experience in one role—perhaps they have been an entrepreneur, for
-example, but not an investor.
-So writing with the assumption that each reader could be both has a variety of advantages:
+A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**.
+Of course, in reality, varied experience exists within an individual reader.
+Most people may already know *something*, and some people are quicker learners than
+others. Even world class experts most likely only really know parts of a subject, and
+contributors may have practical experience in one role—perhaps they have been an
+entrepreneur, for example, but not an investor.
+So writing with the assumption that each reader could be both has a variety of
+advantages:
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject
   understand **what they didn’t know they didn’t know**, and fill in the gaps in their
@@ -67,15 +69,15 @@ So writing with the assumption that each reader could be both has a variety of a
 - ☁️ SaaS / paid services
 - 🚪 Alternatives to the option being discussed
 - 💸 Cost or expense issues, discussion, and gotchas
-- 🕍 A mild warning attached to “full solution” or opinionated frameworks (the cathedral is a
-  nod to [Raymond’s metaphor](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar))
+- 🕍 A mild warning attached to “full solution” or opinionated frameworks (the cathedral is
+  a nod to [Raymond’s metaphor](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar))
 - 🍺 Open source / free software
 
 
 - For well-known people, places, things, and events, prefer linking to the **Wikipedia page**.
-  - If there is a good quality Wikipedia page, prefer it to company or organization home pages,
-    home pages of cities or states or agencies, and other things notable enough to be covered
-    well.
+  - If there is a good quality Wikipedia page, prefer it to company or organization home
+    pages, home pages of cities or states or agencies, and other things notable enough to be
+    covered well.
   - Why? It usually gives a lot more context to the reader, and saves them having to Google to
     find it. It will also help with our search and web page snippet features, since the
     mouseovers on the links will be better quality than for those on marketing pages or poorly
@@ -144,13 +146,13 @@ ElastiCache Basics:
   [User guide](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide) ∙
   [FAQ](https://aws.amazon.com/elasticache/faqs/) ∙
   [Pricing](https://aws.amazon.com/elasticache/pricing/)
-- **ElastiCache** is a managed in-memory cache service, that can be used to store temporary data
-  in a fast in-memory cache, typically in order to avoid repeating the same computation
+- **ElastiCache** is a managed in-memory cache service, that can be used to store temporary
+  data in a fast in-memory cache, typically in order to avoid repeating the same computation
   multiple times when it could be reused.
-- It supports both the [Memcached](https://memcached.org) and [Redis](https://redis.io) open source
-  in-memory cache software and exposes them both using their native access APIs.
-- The main benefit is that AWS takes care of running, patching and optimizing the cache nodes
-  for you, so you just need to launch a cluster and configure its endpoint in your
+- It supports both the [Memcached](https://memcached.org) and [Redis](https://redis.io) open
+  source in-memory cache software and exposes them both using their native access APIs.
+- The main benefit is that AWS takes care of running, patching and optimizing the cache
+  nodes for you, so you just need to launch a cluster and configure its endpoint in your
   application, while AWS will take of most of the operational work of running the cache
   nodes.
 
@@ -171,13 +173,14 @@ ElastiCache Tips:
   clustering configuration and
   [instance type](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/CacheNodes.SelectSize.html)
   carefully based on your application needs.
-  The documentation explains in detail the pros, cons and limitations of each engine in order
-  to help you choose the best fit for your application.
+  The documentation explains in detail the pros, cons and limitations of each engine in
+  order to help you choose the best fit for your application.
   In a nutshell, Redis is preferable for storing more complex data structures, while
   Memcached is just a plain key/value store.
   The simplicity of Memcached allows it to be slightly faster and allows it to scale out if
   needed, but Redis has more features which you may use in your application.
-- For Memcached AWS provides enhanced SDKs for certain programming languages which implement
+- For Memcached AWS provides enhanced SDKs for certain programming languages which
+  implement
   [auto-discovery](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/AutoDiscovery.html),
   a feature not available in the normal memcached client libraries.
 
@@ -213,8 +216,8 @@ X [New York City](https://en.wikipedia.org/wiki/New_York_City). XX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-[New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City).
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [New York City](https://en.wikipedia.org/wiki/New_York_City).
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City).
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -249,12 +252,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New Y
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York
-City**. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York
+City**. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New
 York City**.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York
-City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York
+City**. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+**New York City**.
 
 **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
 New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
@@ -290,8 +293,9 @@ New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
+New York City**
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
 New York City**
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
@@ -332,14 +336,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold*
 And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or em*phasis*.
 And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or em*phasis*.
-And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
+em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
 em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
 em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
 or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
@@ -356,8 +360,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*pha
 or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
 or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
-or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or
+bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or
 bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or
@@ -366,8 +370,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *e
 bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or
 bold**face** or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or
-bold**face** or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis
+or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis
 or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis
@@ -392,8 +396,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bol
 *em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
 *em*phasis or bold**face** or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
-*em*phasis or bold**face** or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face
+or *em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face
 or *em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face
@@ -457,8 +461,8 @@ The same is true for links.
 - 📈 BuzzFeed ([2008, Series A](https://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008/))
 - 📈 Castle ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/castle-pitch-deck-75070238))
 - 📈 Coinbase ([2012, Seed](https://www.slideshare.net/BrianArmstrong29/coinbase-seed-round-pitch-deck));
-  [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b) on
-  the round by Brian Armstrong, CEO of Coinbase.
+  [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b)
+  on the round by Brian Armstrong, CEO of Coinbase.
 - 📈 Contently ([2014, Series B](https://www.slideshare.net/GoCanvas/the-10-most-interesting-slides-that-helped-our-saas-company-raise-9-million-42566344))
 - 📈 Cubeit ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/cubeit-pitch-deck))
 - 📈 Crew ([2015, Series A](https://www.slideshare.net/AlexanderJarvis/crew-pitch-deck-seriesa))
@@ -469,8 +473,8 @@ The same is true for links.
   round by [Henry Ward](https://twitter.com/henrysward), CEO of eShares
 - 📈 Foursquare ([2009, Seed](http://www.slideshare.net/alkarmi/foursquare-1stpitch2009))
 - 📈 Front ([2016, Series A](http://www.slideshare.net/MathildeCollin/front-series-a-deck-64596550?ref=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.slideshare.net%2Fslideshow%2Fembed_code%2Fkey%2FFXlrFkbldHJoki&url=http%3A%2F%2Fwww.slideshare.net%2FMathildeCollin%2Ffront-series-a-deck-64596550&image=http%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Fdecktopublish-1-160801215931-thumbnail-4.jpg%3Fcb%3D1470090544&key=d04bfffea46d4aeda930ec88cc64b87c&type=text%2Fhtml&schema=slideshare));
-  [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz) on
-  the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
+  [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz)
+  on the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
 - 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
 - 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
 
