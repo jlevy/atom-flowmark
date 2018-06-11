@@ -87,8 +87,8 @@ So writing with the assumption that each reader could be both has a variety of a
 
 
 - [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
-  is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code
-  many taxpayers never worry about.
+  is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many
+  taxpayers never worry about.
   Generally, you do not pay
   [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
   It also depends on the state you’re in, since your state taxes can significantly affect
@@ -105,8 +105,8 @@ So writing with the assumption that each reader could be both has a variety of a
   You need quite a bit of information to figure this out, and should just ask.
   If the company trusts you enough to be giving you an offer, and still doesn’t want to
   answer these questions about your offer, it’s **a warning sign**. (There are many
-  [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there
-  with more details about
+  [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with
+  more details about
   [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
   like this.) Information that will help you weigh the offer might be: *
   What percentage of the company do the shares represent?*
@@ -121,8 +121,8 @@ So writing with the assumption that each reader could be both has a variety of a
   *Is there any acceleration of my vesting if the company is acquired?*
   *Do you have a policy regarding follow-on stock grants?*
   *Does the company have any repurchase right to vested shares?*
-- Finally, consider the [common scenarios](#common-scenarios) for exercising options,
-  discussed below.
+- Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed
+  below.
 
 - ❗ It may not be common, but some companies retain a right to repurchase (buy back) vested
   shares. It’s simple enough to ask, "Does the company have any repurchase right to *vested*
@@ -147,8 +147,8 @@ ElastiCache Basics:
 - **ElastiCache** is a managed in-memory cache service, that can be used to store temporary data
   in a fast in-memory cache, typically in order to avoid repeating the same computation
   multiple times when it could be reused.
-- It supports both the [Memcached](https://memcached.org) and [Redis](https://redis.io)
-  open source in-memory cache software and exposes them both using their native access APIs.
+- It supports both the [Memcached](https://memcached.org) and [Redis](https://redis.io) open source
+  in-memory cache software and exposes them both using their native access APIs.
 - The main benefit is that AWS takes care of running, patching and optimizing the cache nodes
   for you, so you just need to launch a cluster and configure its endpoint in your
   application, while AWS will take of most of the operational work of running the cache
@@ -160,8 +160,8 @@ DynamoDB Basics:
   [Developer guide](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/) ∙
   [FAQ](https://aws.amazon.com/dynamodb/faqs/) ∙
   [Pricing](https://aws.amazon.com/dynamodb/pricing/)
-- **DynamoDB** is a [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database with focuses on
-  speed, flexibility, and scalability.
+- **DynamoDB** is a [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database with focuses on speed,
+  flexibility, and scalability.
   DynamoDB is priced on a combination of throughput and storage.
 
 ElastiCache Tips:
@@ -210,14 +210,10 @@ X [New York City](https://en.wikipedia.org/wiki/New_York_City). XX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXX
-[New York City](https://en.wikipedia.org/wiki/New_York_City).
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-[New York City](https://en.wikipedia.org/wiki/New_York_City).
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-[New York City](https://en.wikipedia.org/wiki/New_York_City).
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-[New York City](https://en.wikipedia.org/wiki/New_York_City).
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City).
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City).
@@ -290,12 +286,12 @@ New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
 New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
 New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
-New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
-New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
-New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
-New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
-New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
-New York City**
+New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+**New York City**
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
 New York City**
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **
@@ -390,14 +386,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**
 or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis
 or bold**face** or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis
-or bold**face** or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *
-em*phasis or bold**face** or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *
-em*phasis or bold**face** or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *
-em*phasis or bold**face** or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
+*em*phasis or bold**face** or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
+*em*phasis or bold**face** or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
+*em*phasis or bold**face** or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
+*em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face
 or *em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face
@@ -408,11 +404,11 @@ or *em*phasis or bold**face** or em*phasis*. And more words.
 In some cases, **bold**face or *em*phasis or bold**face** or em*phasis* can occur without
 intervening whitespace.
 In fact, **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis
-or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **
-bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face**
-or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis
-or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* can
-flow on and on…
+or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or
+**bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face**
+or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or
+*em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis*
+can flow on and on…
 
 The same is true for links.
 "The [Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) in
@@ -461,20 +457,20 @@ The same is true for links.
 - 📈 BuzzFeed ([2008, Series A](https://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008/))
 - 📈 Castle ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/castle-pitch-deck-75070238))
 - 📈 Coinbase ([2012, Seed](https://www.slideshare.net/BrianArmstrong29/coinbase-seed-round-pitch-deck));
-  [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b)
-  on the round by Brian Armstrong, CEO of Coinbase.
+  [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b) on
+  the round by Brian Armstrong, CEO of Coinbase.
 - 📈 Contently ([2014, Series B](https://www.slideshare.net/GoCanvas/the-10-most-interesting-slides-that-helped-our-saas-company-raise-9-million-42566344))
 - 📈 Cubeit ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/cubeit-pitch-deck))
 - 📈 Crew ([2015, Series A](https://www.slideshare.net/AlexanderJarvis/crew-pitch-deck-seriesa))
 - 📈 DocSend ([2013, Seed](https://docsend.com/view/n43v89r))
 - 📈 Dwolla ([2013, Series C](http://www.businessinsider.com/18-slide-pitch-deck-lands-payment-startup-dwolla-165-million-2013-4?op=1))
 - 📈 eShares ([2014, Series A](https://esharesinc.app.box.com/s/fjixdt78tl9henx2c75etkx1sootwo9p));
-  [Commentary](https://medium.com/eshares-blog/eshares-series-a-c6bad9ad3721#.alf0y6i99) on
-  the round by [Henry Ward](https://twitter.com/henrysward), CEO of eShares
+  [Commentary](https://medium.com/eshares-blog/eshares-series-a-c6bad9ad3721#.alf0y6i99) on the
+  round by [Henry Ward](https://twitter.com/henrysward), CEO of eShares
 - 📈 Foursquare ([2009, Seed](http://www.slideshare.net/alkarmi/foursquare-1stpitch2009))
 - 📈 Front ([2016, Series A](http://www.slideshare.net/MathildeCollin/front-series-a-deck-64596550?ref=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.slideshare.net%2Fslideshow%2Fembed_code%2Fkey%2FFXlrFkbldHJoki&url=http%3A%2F%2Fwww.slideshare.net%2FMathildeCollin%2Ffront-series-a-deck-64596550&image=http%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Fdecktopublish-1-160801215931-thumbnail-4.jpg%3Fcb%3D1470090544&key=d04bfffea46d4aeda930ec88cc64b87c&type=text%2Fhtml&schema=slideshare));
-  [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz)
-  on the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
+  [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz) on
+  the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
 - 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
 - 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
 
