@@ -104,7 +104,8 @@ advantages:
   indication at this meeting, but I’d love to know if this is the* sort *of opportunity you
   could imagine taking.
   I’ll happily put in the work to persuade you over time!
-  But would I be better off focusing my attention on other VCs?”* \[[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
+  But would I be better off focusing my attention on other VCs?”*
+  \[[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
 
 🔹 **Automated and emerging legal services**: Many services like
 [**Stripe Atlas**](https://stripe.com/atlas), **[Atrium](https://www.atrium.co/)**,
@@ -113,8 +114,8 @@ advantages:
 lawyers. [**Atrium**](https://www.atrium.co/) is a new legal services company worth keeping an
 eye on.
 
-- [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/) is
-  a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many
+- [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/)
+  is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many
   taxpayers never worry about.
   Generally, you do not pay
   [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14).
@@ -125,8 +126,8 @@ eye on.
   [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/).
   AMT rules are so complicated you often need professional tax help if they might apply to
   you. The IRS’s
-  [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals) might
-  also help.
+  [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals)
+  might also help.
 
 - ❗ If you do get an offer, you need to understand the value of the equity component.
   You need quite a bit of information to figure this out, and should just ask.
@@ -134,30 +135,33 @@ eye on.
   answer these questions about your offer, it’s **a warning sign**. (There are many
   [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with
   more details about
-  [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) like
-  this.) Information that will help you weigh the offer might be: *What percentage of the
-  company do the shares represent?* *What set of shares was used to compute that percentage
-  (is this really the percentage of all shares, or some subset)?* *What did the last round
-  value the company at?
-  (I.e. the preferred share price times the total outstanding shares)?* *What is the most
-  recent 409A valuation?
-  When was it done, and will it be done again soon?* *Do you allow early exercise of my
-  options?* *Are all employees on the same vesting schedule?* *Is there any acceleration of
-  my vesting if the company is acquired?* *Do you have a policy regarding follow-on stock
-  grants?* *Does the company have any repurchase right to vested shares?*
+  [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
+  like this.) Information that will help you weigh the offer might be: *What percentage of
+  the company do the shares represent?*
+  *What set of shares was used to compute that percentage (is this really the percentage of
+  all shares, or some subset)?*
+  *What did the last round value the company at?
+  (I.e. the preferred share price times the total outstanding shares)?*
+  *What is the most recent 409A valuation?
+  When was it done, and will it be done again soon?*
+  *Do you allow early exercise of my options?*
+  *Are all employees on the same vesting schedule?*
+  *Is there any acceleration of my vesting if the company is acquired?*
+  *Do you have a policy regarding follow-on stock grants?*
+  *Does the company have any repurchase right to vested shares?*
 - Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed
   below.
 
 - ❗ It may not be common, but some companies retain a right to repurchase (buy back) vested
-  shares. It’s simple enough to ask, "Does the company have any repurchase right to *vested* shares?”
-  (Note repurchasing *unvested* shares that were purchased via early exercise is different,
-  and helps you.)
+  shares. It’s simple enough to ask, "Does the company have any repurchase right to *vested*
+  shares?” (Note repurchasing *unvested* shares that were purchased via early exercise is
+  different, and helps you.)
   If you don’t want to ask, the fair market value repurchase right should be included in the
   documents you are being asked to sign or acknowledge that you have read and understood.
   (Skype had a
   [complex](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right)
-  [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html) related
-  to repurchasing.)
+  [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html)
+  related to repurchasing.)
   You might find a repurchase right for vested shares in the Stock Plan itself, the Stock
   Option Agreement, the Exercise Agreement, the bylaws, the certificate of incorporation, or
   any other stockholder agreement.
@@ -193,8 +197,8 @@ ElastiCache Tips:
 - Choose the
   [engine](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/SelectEngine.html),
   clustering configuration and
-  [instance type](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/CacheNodes.SelectSize.html) carefully
-  based on your application needs.
+  [instance type](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/CacheNodes.SelectSize.html)
+  carefully based on your application needs.
   The documentation explains in detail the pros, cons and limitations of each engine in
   order to help you choose the best fit for your application.
   In a nutshell, Redis is preferable for storing more complex data structures, while
@@ -281,33 +285,48 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX *
 City**. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 **New York City**.
 
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York
-City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York
-City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New
-York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York
-City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+**New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York
+City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New
+York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+**New York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York
+City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New
+York City**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or em*phasis*. And
 more words. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or em*phasis*.
@@ -345,24 +364,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bo
 em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
 em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face** or
-em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or bold**face**
+or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or
 bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or *em*phasis or
@@ -412,10 +431,10 @@ In some cases, **bold**face or *em*phasis or bold**face** or em*phasis* can occu
 intervening whitespace.
 In fact, **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis
 or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or
-**bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or
-em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis
-or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* can
-flow on and on…
+**bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face**
+or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis* or **bold**face or
+*em*phasis or bold**face** or em*phasis* or **bold**face or *em*phasis or bold**face** or em*phasis*
+can flow on and on…
 
 *blah blah* *blah blah* *blah blah* *blah blah* *blah blah* *blah blah* *blah blah* *blah
 blah* *blah blah* *blah blah* *blah blah* *blah blah* *blah blah* *blah blah* *blah blah*
@@ -468,8 +487,8 @@ The same is true for links.
 - 📈 BuzzFeed ([2008, Series A](https://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008/))
 - 📈 Castle ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/castle-pitch-deck-75070238))
 - 📈 Coinbase ([2012, Seed](https://www.slideshare.net/BrianArmstrong29/coinbase-seed-round-pitch-deck));
-  [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b) on
-  the round by Brian Armstrong, CEO of Coinbase.
+  [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b)
+  on the round by Brian Armstrong, CEO of Coinbase.
 - 📈 Contently ([2014, Series B](https://www.slideshare.net/GoCanvas/the-10-most-interesting-slides-that-helped-our-saas-company-raise-9-million-42566344))
 - 📈 Cubeit ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/cubeit-pitch-deck))
 - 📈 Crew ([2015, Series A](https://www.slideshare.net/AlexanderJarvis/crew-pitch-deck-seriesa))
@@ -480,8 +499,8 @@ The same is true for links.
   round by [Henry Ward](https://twitter.com/henrysward), CEO of eShares
 - 📈 Foursquare ([2009, Seed](http://www.slideshare.net/alkarmi/foursquare-1stpitch2009))
 - 📈 Front ([2016, Series A](http://www.slideshare.net/MathildeCollin/front-series-a-deck-64596550?ref=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.slideshare.net%2Fslideshow%2Fembed_code%2Fkey%2FFXlrFkbldHJoki&url=http%3A%2F%2Fwww.slideshare.net%2FMathildeCollin%2Ffront-series-a-deck-64596550&image=http%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Fdecktopublish-1-160801215931-thumbnail-4.jpg%3Fcb%3D1470090544&key=d04bfffea46d4aeda930ec88cc64b87c&type=text%2Fhtml&schema=slideshare));
-  [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz) on
-  the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
+  [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz)
+  on the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
 - 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
 - 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
 
