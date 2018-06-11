@@ -166,6 +166,12 @@ eye on.
   Option Agreement, the Exercise Agreement, the bylaws, the certificate of incorporation, or
   any other stockholder agreement.
 
+Venture capital firms fund companies-commonly referred to as startups-that have ambitious
+goals of being dominant high-value businesses in their target market ([market caps](https://www.investopedia.com/terms/m/marketcapitalization.asp)
+of >$1B and margins of >50%). These firms seek to make investments early in a company’s
+life when stock is cheap, in hopes of holding through periods of hyper-growth in order to
+realize abnormally large returns (200%+).
+
 ElastiCache Basics:
 
 - 📒 [Homepage](https://aws.amazon.com/elasticache/) ∙

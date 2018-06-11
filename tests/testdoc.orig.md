@@ -62,6 +62,7 @@ eye on.
 
 - ❗ It may not be common, but some companies retain a right to repurchase (buy back) vested shares. It's simple enough to ask, "Does the company have any repurchase right to *vested* shares?” (Note repurchasing *unvested* shares that were purchased via early exercise is different, and helps you.) If you don't want to ask, the fair market value repurchase right should be included in the documents you are being asked to sign or acknowledge that you have read and understood. (Skype had a [complex](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right) [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html) related to repurchasing.) You might find a repurchase right for vested shares in the Stock Plan itself, the Stock Option Agreement, the Exercise Agreement, the bylaws, the certificate of incorporation, or any other stockholder agreement.
 
+Venture capital firms fund companies-commonly referred to as startups-that have ambitious goals of being dominant high-value businesses in their target market ([market caps](https://www.investopedia.com/terms/m/marketcapitalization.asp) of >$1B and margins of >50%). These firms seek to make investments early in a company's life when stock is cheap, in hopes of holding through periods of hyper-growth in order to realize abnormally large returns (200%+).
 
 ElastiCache Basics:
 
