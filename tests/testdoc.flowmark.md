@@ -21,13 +21,13 @@ He had spoken with the FBI. There was no time to lose.
 Dash—dash. Dash—dash.
 Dash—dash.
 
-10–20 10–20 10—20.
+10–20 10–20 10–20.
 
-10 - 20 10 – 20 10—20.
+10 - 20 10–20 10–20.
 
 a-b a–b a—b.
 
-a - b a – b a—b.
+a - b a—b a—b.
 
 ## Wrapping tests
 
@@ -60,8 +60,7 @@ Most people may already know *something*, and some people are quicker learners t
 others. Even world class experts most likely only really know parts of a subject, and
 contributors may have practical experience in one role—perhaps they have been an
 entrepreneur, for example, but not an investor.
-So writing with the assumption that each reader could be both has a variety of
-advantages:
+So writing with the assumption that each reader could be both has a variety of advantages:
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject
   understand **what they didn’t know they didn’t know**, and fill in the gaps in their
