@@ -24,8 +24,10 @@ preserving the Markdown.
 This “stabilizes” the line wrapping, so small changes—say only a few words in one
 sentence—only affect nearby lines.
 It also wraps links intelligently, so they don’t bungle up your paragraphs.
-(Take a look at the source to this file for an example.
-And see [this discussion](https://github.com/shurcooL/markdownfmt/issues/17) for more
+Take a look at
+[the source to this README](https://github.com/jlevy/atom-flowmark/blame/master/README.md)
+for an example.
+(And see [this discussion](https://github.com/shurcooL/markdownfmt/issues/17) for more
 details.)
 
 The hope is that you—or anyone else you collaborate with—can run it any time to clean up
