@@ -23,7 +23,11 @@ Dash—dash.
 
 10–20 10–20 10—20.
 
+10 - 20 10 – 20 10—20.
+
 a-b a–b a—b.
+
+a - b a – b a—b.
 
 ## Wrapping tests
 
