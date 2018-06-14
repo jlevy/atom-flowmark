@@ -60,7 +60,8 @@ Most people may already know *something*, and some people are quicker learners t
 others. Even world class experts most likely only really know parts of a subject, and
 contributors may have practical experience in one role—perhaps they have been an
 entrepreneur, for example, but not an investor.
-So writing with the assumption that each reader could be both has a variety of advantages:
+So writing with the assumption that each reader could be both has a variety of
+advantages:
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject
   understand **what they didn’t know they didn’t know**, and fill in the gaps in their
