@@ -49,6 +49,27 @@ A good heuristic is to assume your readers will be **100% intelligent and 100% i
   - Why? It usually gives a lot more context to the reader, and saves them having to Google to find it. It will also help with our search and web page snippet features, since the mouseovers on the links will be better quality than for those on marketing pages or poorly organized or out-of-date official websites.
     - Example: "The [Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) in [California](https://en.wikipedia.org/wiki/California) is home to both [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and [Google](https://en.wikipedia.org/wiki/Google)."
 
+A lot has changed in the last decade.
+We’re currently in a [seller’s market](https://www.washingtonpost.com/news/where-we-live/wp/2018/01/10/what-home-sellers-can-expect-in-2018-the-market-is-still-in-your-favor-if-the-price-is-right/)
+nationwide, meaning buyers are not favored in most markets.
+Home prices last peaked in 2006, and are [up 6.7 percent](http://money.cnn.com/2018/04/24/real_estate/home-prices-rise-case-shiller/index.html)
+this year (they’ve risen [about](https://fred.stlouisfed.org/series/CSUSHPISA) [6% every year](http://www.chicagotribune.com/business/ct-biz-tax-law-home-values-20180102-story.html)
+for the last six) and rising—particularly in hot markets like San Francisco, where the average home sells in 21 days. Mortgage rates are rising, too, and fast.
+From September 2017 to March 2018,
+[mortgage rates rose from 3.78% to 4.45%](https://www.nytimes.com/2018/03/28/upshot/housing-sales-mortgage-rates-tax-law.html).
+Ouch. Neil Irwin, economist and New York Times correspondent,
+[explains](https://www.nytimes.com/2018/03/28/upshot/housing-sales-mortgage-rates-tax-law.html)
+that demand for housing is going up as millennials age into their 30s, but the cost of
+building new homes to accommodate buyers is rising as well.
+The [tax law](https://turbotax.intuit.com/tax-tips/irs-tax-return/2017-tax-reform-legislation-what-you-should-know/L96aFuPhc)
+passed in February 2017 is expected to [slow rising housing costs](http://www.chicagotribune.com/business/ct-biz-tax-law-home-values-20180102-story.html)
+for the upper middle class and the very wealthy.
+The tax law’s impact on everyone else is mostly centered on the doubling of the standard
+deduction for married couples (still 58% of
+[first-time buyers](https://www.nytimes.com/2017/04/21/realestate/first-time-home-buyers-statistics.html))
+to $24,000, which means the tax benefit of buying is
+[no longer relevant](https://fred.stlouisfed.org/series/CSUSHPISA) for most people.
+
 * When an investor is trying to get you to agree to a term you think is unfair, you need to protect your interests without sounding accusatory toward the investor: *“Sorry, I’m just inexperienced, I read/was told that it’s not wise to [term they want you to agree to].”* [[Paul Graham, Y Combinator](http://paulgraham.com/fr.html)]
 * When you want to test a VC’s interest to determine where to put your energy, you don’t want to sound desperate or pushy: *“I know that you’re not likely to give me a strong indication at this meeting, but I’d love to know if this is the* sort *of opportunity you could imagine taking. I'll happily put in the work to persuade you over time! But would I be better off focusing my attention on other VCs?”* [[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
 
