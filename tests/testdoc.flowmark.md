@@ -60,8 +60,7 @@ Most people may already know *something*, and some people are quicker learners t
 others. Even world class experts most likely only really know parts of a subject, and
 contributors may have practical experience in one role—perhaps they have been an
 entrepreneur, for example, but not an investor.
-So writing with the assumption that each reader could be both has a variety of
-advantages:
+So writing with the assumption that each reader could be both has a variety of advantages:
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject
   understand **what they didn’t know they didn’t know**, and fill in the gaps in their
@@ -215,8 +214,7 @@ ElastiCache Tips:
   Memcached is just a plain key/value store.
   The simplicity of Memcached allows it to be slightly faster and allows it to scale out if
   needed, but Redis has more features which you may use in your application.
-- For Memcached AWS provides enhanced SDKs for certain programming languages which
-  implement
+- For Memcached AWS provides enhanced SDKs for certain programming languages which implement
   [auto-discovery](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/AutoDiscovery.html),
   a feature not available in the normal memcached client libraries.
 
@@ -252,8 +250,8 @@ X [New York City](https://en.wikipedia.org/wiki/New_York_City). XX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[New York City](https://en.wikipedia.org/wiki/New_York_City). XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City).
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [New York City](https://en.wikipedia.org/wiki/New_York_City).
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [New York City](https://en.wikipedia.org/wiki/New_York_City).
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -290,10 +288,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York
 City**. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New
-York City**.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York
-City**. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+York City**. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York
+City**.
 
 **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. **New York City**
@@ -428,8 +426,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bol
 *em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
 *em*phasis or bold**face** or em*phasis*. And more words.
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face
-or *em*phasis or bold**face** or em*phasis*. And more words.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face or
+*em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face
 or *em*phasis or bold**face** or em*phasis*. And more words.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **bold**face

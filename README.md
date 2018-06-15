@@ -10,37 +10,47 @@ written in JavaScript.
 ## Why auto-format Markdown?
 
 Auto-formatting is known to be a Very Good Thing when multiple programmers work together.
-But it turns out the same idea can be hard to apply for Markdown, mostly related to the
-handling of paragraphs of text.
-Inconsistent formatting details like stars or dashes are small annoyances easily fixed by
-any auto-formatter.
-But the real challenge of collaborative editing is *confusing diffs* and *merge conflicts*
+But it turns out the same idea can be hard to apply for Markdown, for subtle reasons
+mostly related to the handling of paragraphs of text.
+
+Existing auto-formatters standardize the common annoyances of inconsistent indentation,
+different heading styles, and the like.
+But the real challenge of collaborative editing is **confusing diffs** and **merge conflicts**
 common with multiple people editing paragraph-long lines on large GitHub-hosted Markdown
 files.
 
 Flowmark tries a different approach:
 It intelligently breaks lines on sentence boundaries when they are reasonable, while still
-preserving the Markdown.
-This “stabilizes” the line wrapping, so small changes—say only a few words in one
-sentence—only affect nearby lines.
-It also wraps links intelligently, so they don’t bungle up your paragraphs.
-Take a look at
-[the source to this README](https://github.com/jlevy/atom-flowmark/blame/master/README.md)
-for an example.
-(And see [this discussion](https://github.com/shurcooL/markdownfmt/issues/17) for more
-details.)
+preserving the way the Markdown will render.
+This may seem like an odd idea at first, but is a solution to two goals:
+
+- Keeping all lines reasonably short, which aligns better with traditional Git and GitHub
+  workflows and tools.
+- Avoiding reflowing text gratuitously.
+  It does not auto-wrap text on whole paragraphs every time there is a small change.
+  Basically it “stabilizes” the line wrapping, so small changes—say only a few words in one
+  sentence—only impact nearby lines in the file.
+
+It also wraps links with long URLs in them intelligently, so they don’t bungle up your
+paragraphs. Take a look at
+[the source to this README](https://github.com/jlevy/atom-flowmark/blame/master/README.md) for
+an example. (And see [this discussion](https://github.com/shurcooL/markdownfmt/issues/17) for
+more details.)
 
 The hope is that you—or anyone else you collaborate with—can run it any time to clean up
-your Markdown consistently, and with minimal diff churn.
-Line diff counts on GitHub also become meaningful (unlike when whole paragraphs are
-lines). Note that the Flowmark formatting rules a a little complex, but that’s okay, as
-long as they’re consistent.
+your Markdown consistently and routinely and with minimal diff churn.
+Other GitHub features also work better Unlike the situation with paragraph-long lines,
+shorter lines mean diff line counts and Git blame also become meaningful (just as with a
+normal programming language).
+Note that the Flowmark formatting rules are a little complex, but that’s okay, as long as
+they’re consistent.
 
 ## Other features
 
 - Full, deterministic Markdown support, based on [Remark](https://github.com/remarkjs/remark)
   and typographic fixes via [Textr](https://github.com/A/textr).
-- Switches to smart quotes, dashes, and the like, to clean up
+- Switches (conservatively, avoiding overly aggressive rules) to smart quotes, dashes, and
+  the like, to clean up
   [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html).
 
 ## Installation and use
