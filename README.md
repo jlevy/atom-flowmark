@@ -7,6 +7,8 @@ It’s a bit like if
 [semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/) had a baby
 written in JavaScript.
 
+![Auto-format selection](screenshot.gif)
+
 ## Why auto-format Markdown?
 
 Auto-formatting is known to be a Very Good Thing when multiple programmers work together.
@@ -39,9 +41,9 @@ more details.)
 
 The hope is that you—or anyone else you collaborate with—can run it any time to clean up
 your Markdown consistently and routinely and with minimal diff churn.
-Other GitHub features also work better Unlike the situation with paragraph-long lines,
-shorter lines mean diff line counts and Git blame also become meaningful (just as with a
-normal programming language).
+Other GitHub features also work better:
+Unlike the situation with paragraph-long lines, shorter lines mean diff line counts and
+Git blame also become meaningful (just as with a normal programming language).
 Note that the Flowmark formatting rules are a little complex, but that’s okay, as long as
 they’re consistent.
 
