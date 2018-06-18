@@ -202,6 +202,31 @@ of >$1B and margins of >50%). These firms seek to make investments early in a co
 life when stock is cheap, in hopes of holding through periods of hyper-growth in order to
 realize abnormally large returns (200%+).
 
+- Preferred stock usually has a
+  [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
+  meaning the preferred stock owner will be paid before the common stock owners upon
+  liquidation.
+  - [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
+    can occur when the value of a company just doesn’t reach the number of dollars investors
+    put into it. Because of liquidation preference, those holding preferred stock (investors)
+    will have to be paid before those holding common stock (employees).
+    If investors invested a hundred million dollars in your company, your equity as an
+    employee won’t be worth anything if the company is sold when it’s in liquidation overhang
+    and the sale doesn’t
+    [exceed that amount](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/).
+  - ☝️ Preferences are
+    [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
+
+    [complex](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332).
+    Investors and entrepreneurs negotiate a lot of these details, including:
+    - The **multiple**, a number designating how many times the investor must be paid back before
+      common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
+      higher).
+    - Whether preferred stock is
+      [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
+      investors get their money back and also participate in proceeds from common stock.
+    - Whether there is a **cap**, which limits the payout if it is participating.
+
 ElastiCache Basics:
 
 - 📒 [Homepage](https://aws.amazon.com/elasticache/) ∙
