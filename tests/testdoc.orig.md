@@ -9,6 +9,8 @@ Re-run Flowmark and compare output.
 
 Cas' surprise at John's question hung over them both for a brief moment, like a thinly disguised sack of potatoes. "From 2002-2004 I specialized in the Sarbanes-Oxley Act (Pub.L. 107–204, 116 Stat. 745, enacted July 30, 2002), which was known (in the House) as the 'Corporate and Auditing Accountability, Responsibility, and Transparency Act' and--" But here he cut her off! And who could blame him? He had spoken with the FBI. There was no time to lose.
 
+These companies add (or "issue") stock.
+
 Dash--dash. Dash -- dash. Dash  -- dash.
 
 10-20 10–20 10—20.
