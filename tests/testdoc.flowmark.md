@@ -208,6 +208,7 @@ realize abnormally large returns (200%+).
   [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
   liquidation.
+
   - [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
     can occur when the value of a company just doesn’t reach the number of dollars investors
     put into it. Because of liquidation preference, those holding preferred stock (investors)
@@ -228,6 +229,14 @@ realize abnormally large returns (200%+).
       [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
       investors get their money back and also participate in proceeds from common stock.
     - Whether there is a **cap**, which limits the payout if it is participating.
+
+- **Secondary buyers**: Thinking on all this
+  [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
+  [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
+  Some companies do see value in offering (mostly limited) opportunities for sale.
+  \- [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
+  [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
+  particularly for well-known pre-IPO companies.
 
 ElastiCache Basics:
 

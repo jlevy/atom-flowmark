@@ -115,6 +115,14 @@ Venture capital firms fund companies-commonly referred to as startups-that have 
     investors get their money back and also participate in proceeds from common stock.
     - Whether there is a **cap**, which limits the payout if it is participating.
 
+- **Secondary buyers**: Thinking on all this
+  [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
+  [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
+  Some companies do see value in offering (mostly limited) opportunities for sale.
+	- [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
+    [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
+    particularly for well-known pre-IPO companies.
+
 ElastiCache Basics:
 
 - 📒 [Homepage](https://aws.amazon.com/elasticache/) ∙ [User
