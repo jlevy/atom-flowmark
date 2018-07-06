@@ -286,6 +286,9 @@ an equity compensation consultant or specialist at a law firm. **Founders** look
 introduction to legalities of running a company may wish to check out Clerky’s
 [*Legal Concepts for Founders*](https://handbook.clerky.com/).
 
+This number has steadily declined since 2002 levels of 12.3% and 23.2% respectively ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)
+of General Social Survey data).
+
 ### Boldface, italics, and links
 
 X [New York City](https://en.wikipedia.org/wiki/New_York_City). XX
