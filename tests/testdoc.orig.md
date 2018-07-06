@@ -163,6 +163,11 @@ ElastiCache Tips:
   [auto-discovery](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/AutoDiscovery.html),
   a feature not available in the normal memcached client libraries.
 
+**CEOs** and **COOs** who run a company or team of significant size should be sure to talk to
+an equity compensation consultant or specialist at a law firm. **Founders** looking for an
+introduction to legalities of running a company may wish to check out Clerky’s
+[*Legal Concepts for Founders*](https://handbook.clerky.com/).
+
 ### Boldface, italics, and links
 
 X [New York City](https://en.wikipedia.org/wiki/New_York_City).
