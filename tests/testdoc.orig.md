@@ -123,6 +123,27 @@ Venture capital firms fund companies-commonly referred to as startups-that have 
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
     particularly for well-known pre-IPO companies.
 
+- **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
+  - At grant and vesting:
+    - No tax if granted at FMV
+  - At exercise:
+    - Ordinary tax on the bargain element
+    - Income and employment tax withholding on paycheck
+  - At sale:
+    - Long-term capital gains tax on gain if held for *1 year past exercise*
+    - Ordinary tax otherwise (including immediate sale)
+
+- **ISOs**: You might pay less tax at exercise, but it’s complicated:
+  - At grant and vesting:
+    - No tax if granted at FMV
+  - At exercise:
+    - AMT tax event on the bargain element;
+      no ordinary or capital gains tax
+    - No income or employment tax withholding on paycheck
+  - At sale:
+    - Long-term capital gains if held for *1 year past exercise and 2 years past grant date*
+    - Ordinary tax otherwise (including immediate sale)
+
 ElastiCache Basics:
 
 - 📒 [Homepage](https://aws.amazon.com/elasticache/) ∙ [User
