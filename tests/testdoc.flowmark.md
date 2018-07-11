@@ -630,3 +630,6 @@ var x = 5;
 | [CloudWatch](#cloudwatch)             | [📗](#cloudwatch-basics)       | [📘](#cloudwatch-tips)       | [📙](#cloudwatch-gotchas-and-limitations)       |
 | [AMIs](#amis)                         | [📗](#ami-basics)              | [📘](#ami-tips)              | [📙](#ami-gotchas-and-limitations)              |
 | [Auto Scaling](#auto-scaling)         | [📗](#auto-scaling-basics)     | [📘](#auto-scaling-tips)     | [📙](#auto-scaling-gotchas-and-limitations)     |
+
+- 📒 [FAQ](https://aws.amazon.com/cloudwatch/faqs/) ∙
+  [Pricing](https://aws.amazon.com/cloudwatch/pricing/) - 🔹Blahxxx - ❗Blahxxx
