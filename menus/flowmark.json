@@ -21,6 +21,10 @@
             {
               "label": "Smart quotes and dashes (only)",
               "command": "flowmark:smartQuotes"
+            },
+            {
+              "label": "Heavy clean up (exported pandoc/GDocs)",
+              "command": "flowmark:heavyCleanup"
             }
           ]
         }
