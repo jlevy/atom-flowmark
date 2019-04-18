@@ -1,3 +1,10 @@
+---
+name: This is some YAML frontmatter.
+values:
+  - foo
+  - bar
+---
+
 ## Test document
 
 This is a simple test document to verify Flowmark usage.
