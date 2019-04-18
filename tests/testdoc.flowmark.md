@@ -219,7 +219,6 @@ realize abnormally large returns (200%+).
     [exceed that amount](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/).
   - ☝️ Preferences are
     [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
-
     [complex](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332).
     Investors and entrepreneurs negotiate a lot of these details, including:
     - The **multiple**, a number designating how many times the investor must be paid back before
@@ -232,8 +231,8 @@ realize abnormally large returns (200%+).
 
 - **Secondary buyers**: Thinking on all this
   [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
-  [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
-  Some companies do see value in offering (mostly limited) opportunities for sale.
+  [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/). Some
+  companies do see value in offering (mostly limited) opportunities for sale.
   \- [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
   [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
   particularly for well-known pre-IPO companies.
