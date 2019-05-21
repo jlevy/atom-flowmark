@@ -618,6 +618,35 @@ The same is true for links.
 - 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
 - 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
 
+## Footnotes
+
+🔸 If you do send a pitch deck via email, expect materials you share with investors to get
+leaked to other investors, your competitors, and the press.[^191] That doesn’t mean you
+shouldn’t tell investors what they need to know, but it does mean you want to be careful
+with how you share that information.
+You might, for example, send investors a less sensitive version of your pitch deck via
+email, but include additional slides when you actually present to them at their firm.
+
+To create an effective story, you have to consider what motivates the recipient of your
+story. Take Henry Ford, “If there is any one secret of success it lies in the ability to
+get the other person’s point of view and see things from their angle as well as your own.”
+[^177]
+
+❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher
+threshold leverage to block an IPO.[^210]
+
+[^191]: http://paulgraham.com/fr.html
+
+[^177]&#x3A; Carnegie, Dale. *How To Win Friends and Influence People* (p.
+35). Simon & Schuster.
+Kindle Edition.
+
+[^207]&#x3A;
+<https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html>
+
+[^210]&#x3A; FM16, p.
+80
+
 ## Some other stuff
 
 ```javascript
