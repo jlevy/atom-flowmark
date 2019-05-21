@@ -635,6 +635,9 @@ get the other person’s point of view and see things from their angle as well a
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher
 threshold leverage to block an IPO.[^210]
 
+[^2]&#x3A; Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle
+Location 1220). Wiley, 2013. Kindle Edition.
+
 [^191]: http://paulgraham.com/fr.html
 
 [^177]&#x3A; Carnegie, Dale. *How To Win Friends and Influence People* (p.

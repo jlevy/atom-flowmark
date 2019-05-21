@@ -430,6 +430,7 @@ To create an effective story, you have to consider what motivates the recipient 
 
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^210]
 
+[^2]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle Location 1220). Wiley, 2013. Kindle Edition.
 
 [^191]: http://paulgraham.com/fr.html
 
@@ -439,6 +440,7 @@ To create an effective story, you have to consider what motivates the recipient 
 [^207]: [https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html](https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html)
 
 [^210]: FM16, p. 80
+
 
 
 ## Some other stuff
