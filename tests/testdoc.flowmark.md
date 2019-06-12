@@ -618,7 +618,7 @@ The same is true for links.
 - 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
 - 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
 
-## Footnotes
+## Footnotes and bare links
 
 🔸 If you do send a pitch deck via email, expect materials you share with investors to get
 leaked to other investors, your competitors, and the press.[^191] That doesn’t mean you
@@ -649,6 +649,17 @@ Kindle Edition.
 
 [^210]&#x3A; FM16, p.
 80
+
+Links like these underline ones come up from some exports.
+And let’s try some links with angle brackets.
+
+[^52]&#x3A;
+[\[https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com\]{.underline}](https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com)
+
+[^53]: https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps
+
+And by contrast here a bare link is like this
+<https://www.google.com/>
 
 ## Some other stuff
 
