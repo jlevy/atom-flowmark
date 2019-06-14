@@ -621,9 +621,9 @@ The same is true for links.
 ## Footnotes and bare links
 
 🔸 If you do send a pitch deck via email, expect materials you share with investors to get
-leaked to other investors, your competitors, and the press.[^191] That doesn’t mean you
-shouldn’t tell investors what they need to know, but it does mean you want to be careful
-with how you share that information.
+leaked to other investors, your competitors, and the press.[^191]
+That doesn’t mean you shouldn’t tell investors what they need to know, but it does mean
+you want to be careful with how you share that information.
 You might, for example, send investors a less sensitive version of your pitch deck via
 email, but include additional slides when you actually present to them at their firm.
 
@@ -635,28 +635,25 @@ get the other person’s point of view and see things from their angle as well a
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher
 threshold leverage to block an IPO.[^210]
 
-[^2]&#x3A; Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle
+[^2]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle
 Location 1220). Wiley, 2013. Kindle Edition.
 
-[^191]: http://paulgraham.com/fr.html
+[^191]: <http://paulgraham.com/fr.html>
 
-[^177]&#x3A; Carnegie, Dale. *How To Win Friends and Influence People* (p.
+[^177]: Carnegie, Dale. *How To Win Friends and Influence People* (p.
 35). Simon & Schuster.
 Kindle Edition.
 
-[^207]&#x3A;
-<https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html>
+[^207]: <https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html>
 
-[^210]&#x3A; FM16, p.
-80
+[^210]: FM16, p. 80
 
 Links like these underline ones come up from some exports.
 And let’s try some links with angle brackets.
 
-[^52]&#x3A;
-[\[https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com\]{.underline}](https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com)
+[^52]: [\[https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com\]{.underline}](https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com)
 
-[^53]: https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps
+[^53]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
 
 And by contrast here a bare link is like this
 <https://www.google.com/>
