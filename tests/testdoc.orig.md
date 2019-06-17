@@ -428,6 +428,8 @@ email, but include additional slides when you actually present to them at their 
 
 To create an effective story, you have to consider what motivates the recipient of your story. Take Henry Ford, “If there is any one secret of success it lies in the ability to get the other person’s point of view and see things from their angle as well as your own.” [^177]
 
+Spacing around footnotes can be confusing.[^a] Like this.[^a][^b] Or. [^a] [^b] This. [^a][^b][^c]
+
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^210]
 
 [^2]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle Location 1220). Wiley, 2013. Kindle Edition.
