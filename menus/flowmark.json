@@ -7,8 +7,8 @@
           "label": "Flowmark",
           "submenu": [
             {
-              "label": "Reformat all",
-              "command": "flowmark:all"
+              "label": "Reformat standard",
+              "command": "flowmark:standard"
             },
             {
               "label": "Reformat (only)",

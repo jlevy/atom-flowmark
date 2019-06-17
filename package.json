@@ -6,10 +6,12 @@
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
-      "flowmark:all",
+      "flowmark:standard",
       "flowmark:reformatPlain",
       "flowmark:reformatWrap",
-      "flowmark:smartQuotes"
+      "flowmark:smartQuotes",
+      "flowmark:normalizeFootnotes",
+      "flowmark:heavyCleanup"
     ]
   },
   "repository": "git@github.com:jlevy/atom-flowmark.git",
