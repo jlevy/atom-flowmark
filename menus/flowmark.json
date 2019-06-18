@@ -7,23 +7,23 @@
           "label": "Flowmark",
           "submenu": [
             {
-              "label": "Reformat standard",
+              "label": "Reformat standard (reformat, wrap, smart quotes/dashes)",
               "command": "flowmark:standard"
             },
             {
-              "label": "Reformat (only)",
+              "label": "Reformat only",
               "command": "flowmark:reformatPlain"
             },
             {
-              "label": "Reformat and wrap (only)",
+              "label": "Reformat and wrap only",
               "command": "flowmark:reformatWrap"
             },
             {
-              "label": "Smart quotes and dashes (only)",
+              "label": "Smart quotes and dashes only",
               "command": "flowmark:smartQuotes"
             },
             {
-              "label": "Normalize footnote ids (only)",
+              "label": "Normalize footnote ids",
               "command": "flowmark:normalizeFootnotes"
             },
             {
