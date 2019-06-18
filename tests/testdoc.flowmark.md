@@ -644,8 +644,7 @@ Location 1220). Wiley, 2013. Kindle Edition.
 
 [^191]: <http://paulgraham.com/fr.html>
 
-[^177]: Carnegie, Dale. *How To Win Friends and Influence People* (p.
-35). Simon & Schuster.
+[^177]: Carnegie, Dale. *How To Win Friends and Influence People* (p. 35). Simon & Schuster.
 Kindle Edition.
 
 [^207]: <https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html>
@@ -661,8 +660,7 @@ And let’s try some links with angle brackets.
 
 [^axioscomth.1lioru]: <https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html>
 
-[^carnegieda.327r3k]: Carnegie, Dale. *How To Win Friends and Influence People* (p.
-35). Simon & Schuster.
+[^carnegieda.327r3k]: Carnegie, Dale. *How To Win Friends and Influence People* (p. 35). Simon & Schuster.
 Kindle Edition.
 
 And by contrast here a bare link is like this
