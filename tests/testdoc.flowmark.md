@@ -661,6 +661,10 @@ And let’s try some links with angle brackets.
 
 [^axioscomth.1lioru]: <https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html>
 
+[^carnegieda.327r3k]: Carnegie, Dale. *How To Win Friends and Influence People* (p.
+35). Simon & Schuster.
+Kindle Edition.
+
 And by contrast here a bare link is like this
 <https://www.google.com/>
 
