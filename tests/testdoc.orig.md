@@ -42,6 +42,13 @@ a - b a – b a — b.
 William F. Buckley Jr. was coming to breakfast. Buckley was born November 24, 1925, in [New York
 City](https://en.wikipedia.org/wiki/New_York_City), the son of Aloise Josephine Antonia (Steiner) and William Frank Buckley Sr., a [Texas](https://en.wikipedia.org/wiki/Texas)-born lawyer and oil developer. His mother, from New Orleans, was of Swiss-German, German, and Irish descent, while his paternal grandparents, from Hamilton, Ontario, Canada, were of Irish ancestry. The sixth of ten children, Buckley moved as a boy with his family to Mexico, and then to Sharon, Connecticut, before beginning his formal schooling in Paris, where he attended first grade. By age seven, he received his first formal training in English at a day school in London; his first and second languages were Spanish and French. As a boy, Buckley developed a love for music, sailing, horses, hunting, and skiing. All of these interests would be reflected in his later writings. Just before World War II, at age 12–13, he attended the Catholic preparatory school [St. John's Beaumont School](https://en.wikipedia.org/wiki/St_John%27s_Beaumont_School) in England.
 
+The U.S. holds 50% of the global startup investment pool, down from 95% in the 1990s. (This data is
+[summarized](https://www.inc.com/leigh-buchanan/american-businesses-no-longer-dominate-venture-capital.html)
+in *Inc.*; the [full report](http://startupsusa.org/global-startup-cities/) was conducted by
+the Center for American Entrepreneurship.)
+
+“You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck’s.” —Marc Andreessen[^a16zcom201.ufg7ag]
+
 ### A few paragraphs and bullets
 
 A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of course, in reality, varied experience exists within an individual reader. Most people may already know *something*, and some people are quicker learners than others. Even world class experts most likely only really know parts of a subject, and contributors may have practical experience in one role--perhaps they have been an entrepreneur, for example, but not an investor. So writing with the assumption that each reader could be both has a variety of advantages:  

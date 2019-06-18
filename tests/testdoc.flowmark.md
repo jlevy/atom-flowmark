@@ -68,6 +68,17 @@ Just before World War II, at age 12–13, he attended the Catholic preparatory s
 [St. John’s Beaumont School](https://en.wikipedia.org/wiki/St_John%27s_Beaumont_School) in
 England.
 
+The U.S. holds 50% of the global startup investment pool, down from 95% in the 1990s.
+(This data is
+[summarized](https://www.inc.com/leigh-buchanan/american-businesses-no-longer-dominate-venture-capital.html)
+in *Inc.*; the [full report](http://startupsusa.org/global-startup-cities/) was conducted by
+the Center for American Entrepreneurship.)
+
+“You start getting entrepreneur of the year awards from Harvard Business School.
+Investment bankers are staking out your house.
+You could eat free for a year at Buck’s.”
+—Marc Andreessen[^a16zcom201.ufg7ag]
+
 ### A few paragraphs and bullets
 
 A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**.
