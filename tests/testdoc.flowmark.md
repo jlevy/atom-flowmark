@@ -37,9 +37,9 @@ These companies add (or "issue") stock.
 Dash—dash. Dash—dash.
 Dash—dash.
 
-10–20 10–20 10–20.
+10–20 10–20 10—20.
 
-10 - 20 10–20 10–20.
+10 - 20 10–20 10—20.
 
 a-b a–b a—b.
 
@@ -659,7 +659,7 @@ And let’s try some links with angle brackets.
 
 [^53]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
 
-[^axioscomth.1lioru]: [https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959–13da61c8–15f8–441e-b016-d29902bff8bf.html](https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html)
+[^axioscomth.1lioru]: <https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html>
 
 And by contrast here a bare link is like this
 <https://www.google.com/>
