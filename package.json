@@ -30,6 +30,7 @@
     "typographic-quotes": "^2.0.1",
     "unified": "^7.1.0",
     "unist-util-is": "^2.1.2",
-    "unist-util-visit": "^1.4.0"
+    "unist-util-visit": "^1.4.0",
+    "unist-util-visit-parents": "^2.0.0"
   }
 }
