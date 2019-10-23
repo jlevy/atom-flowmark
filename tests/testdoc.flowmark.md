@@ -676,6 +676,12 @@ Kindle Edition.
 
 [^53]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
 
+[^multiline]: The distinction between “hiring” and “recruiting” isn’t universally agreed upon.
+Some people think of hiring as a superset of recruiting, some consider it to be the other
+way around. However you think of it, both recruiting and hiring involve selling candidates
+on the value proposition of a company and ensuring the alignment of interests between the
+two parties.
+
 And by contrast here a bare link is like this
 <https://www.google.com/>
 
