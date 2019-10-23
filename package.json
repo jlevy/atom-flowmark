@@ -1,7 +1,7 @@
 {
   "name": "flowmark",
   "main": "./lib/main",
-  "version": "0.4.4",
+  "version": "0.5.0",
   "description": "An intelligent, collaboration-friendly auto-formatter for Markdown",
   "keywords": [],
   "activationCommands": {
