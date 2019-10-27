@@ -66,12 +66,15 @@ they’re consistent.
   [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html). (based on
   [Textr](https://github.com/A/textr)).(<https://pandoc.org/>).
 - **Footnote normalization:**
-  A new menu option to rewrite footnotes so they have unique, deterministically determined
-  ids. This is very helpful if you ever combine multiple Markdown docs together if they both
-  have footnotes!
-- **Fixes formatting errors:**
-  Has some optional menu items that clean up common problems in Markdown, such as when docs
-  are converted to Markdown using [Pandoc](https://pandoc.org/).
+  A new menu “normalize footnotes” menu option to rewrite footnotes so they have unique,
+  deterministic ids based on their contents.
+  Usually footnotes are numbered (`[^1]`, `[^2]`, etc.)
+  but this is problematic if you ever try to merge Markdown documents.
+  This option makes that simple and easy if you run it before merging docs!
+  footnotes!
+- **Fixes common formatting errors:**
+  Has some optional “heavy cleanup” menu items that clean up common problems in Markdown,
+  such as when docs are converted to Markdown using [Pandoc](https://pandoc.org/).
 
 ## Installation and use
 
