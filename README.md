@@ -1,12 +1,12 @@
 # atom-flowmark
 
-Flowmark is an [Atom plugin](https://atom.io/packages) to auto-format Markdown text.
-It aims to intelligently wrap lines for ease of reading and collaboration.
+Flowmark is an [Atom plugin](https://atom.io/packages) to auto-format Markdown source.
 
 It draws inspiration from auto-formatting as pioneered by
 [gofmt](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhyGofmtAccepted) and previous
 implementations like [markdownfmt](https://github.com/shurcooL/markdownfmt), but also does
-some helpful new things related to wrapping lines and cleaning up punctuation.
+some helpful new things related to wrapping lines for ease of reading and collaboration
+and cleaning up punctuation.
 It also has some optional tools like cleaning up common Markdown problems and
 “normalizing” footnotes.
 
@@ -67,12 +67,11 @@ they’re consistent.
   [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html). (based on
   [Textr](https://github.com/A/textr)).(<https://pandoc.org/>).
 - **Footnote normalization:**
-  A new menu “normalize footnotes” menu option to rewrite footnotes so they have unique,
+  A new “normalize footnote ids” menu option to rewrite footnotes so they have unique,
   deterministic ids based on their contents.
   Usually footnotes are numbered (`[^1]`, `[^2]`, etc.)
   but this is problematic if you ever try to merge Markdown documents.
   This option makes that simple and easy if you run it before merging docs!
-  footnotes!
 - **Fixes common formatting errors:**
   Has some optional “heavy cleanup” menu items that clean up common problems in Markdown,
   such as when docs are converted to Markdown using [Pandoc](https://pandoc.org/).
