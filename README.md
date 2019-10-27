@@ -10,7 +10,7 @@ implementations like [markdownfmt](https://github.com/shurcooL/markdownfmt), and
 new things regarding line wrappinig, like
 [semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 
-![Auto-format selection](screenshot.gif)
+![Auto-format selection](images/screenshot.gif)
 
 ## Why auto-format Markdown?
 
@@ -75,6 +75,8 @@ they’re consistent.
 - **Fixes common formatting errors:**
   Has some optional “heavy cleanup” menu items that clean up common problems in Markdown,
   such as when docs are converted to Markdown using [Pandoc](https://pandoc.org/).
+
+![Flowmark menu](images/flowmark-menu.png)
 
 ## Installation and use
 
