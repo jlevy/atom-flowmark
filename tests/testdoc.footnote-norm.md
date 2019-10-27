@@ -47,7 +47,7 @@ The U.S. holds 50% of the global startup investment pool, down from 95% in the 1
 in *Inc.*; the [full report](http://startupsusa.org/global-startup-cities/) was conducted by
 the Center for American Entrepreneurship.)
 
-“You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck’s.” —Marc Andreessen[^a16zcom201.ufg7ag]
+“You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck’s.” —Marc Andreessen[^a16zcom201.ufg7ag.missing]
 
 ### A few paragraphs and bullets
 
@@ -437,7 +437,7 @@ email, but include additional slides when you actually present to them at their 
 
 To create an effective story, you have to consider what motivates the recipient of your story. Take Henry Ford, “If there is any one secret of success it lies in the ability to get the other person’s point of view and see things from their angle as well as your own.” [^carnegieda.327r3k]
 
-Spacing around footnotes can be confusing.[^a] Like this.[^a][^b] Or. [^a] [^b] This. [^a][^b][^c]
+Spacing around footnotes can be confusing.[^a.missing] Like this.[^a.missing][^b.missing] Or. [^a.missing] [^b.missing] This. [^a.missing][^b.missing][^c.missing]
 
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^fm16p80.lm4ika]
 
