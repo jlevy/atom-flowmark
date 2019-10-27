@@ -60,12 +60,14 @@ A good heuristic is to assume your readers will be **100% intelligent and 100% i
 - **Encourages communication between beginners and experts**, which can be highly instructive for both sides.
 - Emphasize confusions, overlooked suggestions, pitfalls, and misunderstandings that are common.
 
-* ☁️ SaaS / paid services
-* 🚪 Alternatives to the option being discussed
-* 💸 Cost or expense issues, discussion, and gotchas
-* 🕍 A mild warning attached to "full solution" or
+
+- ☁️ SaaS / paid services
+- 🚪 Alternatives to the option being discussed
+- 💸 Cost or expense issues, discussion, and gotchas
+- 🕍 A mild warning attached to "full solution" or
   opinionated frameworks (the cathedral is a nod to [Raymond's metaphor](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar))
-* 🍺 Open source / free software
+- 🍺 Open source / free software
+
 
 - For well-known people, places, things, and events, prefer linking to the **Wikipedia page**.
   - If there is a good quality Wikipedia page, prefer it to company or organization home pages, home pages of cities or states or agencies, and other things notable enough to be covered well.
@@ -93,8 +95,8 @@ deduction for married couples (still 58% of
 to $24,000, which means the tax benefit of buying is
 [no longer relevant](https://fred.stlouisfed.org/series/CSUSHPISA) for most people.
 
-* When an investor is trying to get you to agree to a term you think is unfair, you need to protect your interests without sounding accusatory toward the investor: *“Sorry, I’m just inexperienced, I read/was told that it’s not wise to [term they want you to agree to].”* [[Paul Graham, Y Combinator](http://paulgraham.com/fr.html)]
-* When you want to test a VC’s interest to determine where to put your energy, you don’t want to sound desperate or pushy: *“I know that you’re not likely to give me a strong indication at this meeting, but I’d love to know if this is the* sort *of opportunity you could imagine taking. I'll happily put in the work to persuade you over time! But would I be better off focusing my attention on other VCs?”* [[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
+- When an investor is trying to get you to agree to a term you think is unfair, you need to protect your interests without sounding accusatory toward the investor: *“Sorry, I’m just inexperienced, I read/was told that it’s not wise to [term they want you to agree to].”* \[[Paul Graham, Y Combinator](http://paulgraham.com/fr.html)]
+- When you want to test a VC’s interest to determine where to put your energy, you don’t want to sound desperate or pushy: *“I know that you’re not likely to give me a strong indication at this meeting, but I’d love to know if this is the* sort *of opportunity you could imagine taking. I'll happily put in the work to persuade you over time! But would I be better off focusing my attention on other VCs?”* \[[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
 
 🔹 **Automated and emerging legal services**: Many services like
 [**Stripe Atlas**](https://stripe.com/atlas), **[Atrium](https://www.atrium.co/)**,
@@ -116,35 +118,37 @@ Venture capital firms fund companies-commonly referred to as startups-that have 
   [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
   liquidation.
+
   - [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
-  can occur when the value of a company just doesn’t reach the number of dollars investors
-  put into it. Because of liquidation preference, those holding preferred stock (investors)
-  will have to be paid before those holding common stock (employees).
-  If investors invested a hundred million dollars in your company, your equity as an
-  employee won’t be worth anything if the company is sold when it’s in liquidation overhang
-  and the sale doesn’t
-  [exceed that amount](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/).
+    can occur when the value of a company just doesn’t reach the number of dollars investors
+    put into it. Because of liquidation preference, those holding preferred stock (investors)
+    will have to be paid before those holding common stock (employees).
+    If investors invested a hundred million dollars in your company, your equity as an
+    employee won’t be worth anything if the company is sold when it’s in liquidation overhang
+    and the sale doesn’t
+    [exceed that amount](https://avc.com/2010/10/employee-equity-the-liquidation-overhang/).
   - ☝️ Preferences are
-  [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
-  [complex](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332).
-  Investors and entrepreneurs negotiate a lot of these details, including:
+    [notoriously](https://venturebeat.com/2010/08/16/beware-the-trappings-of-liquidation-preference/)
+    [complex](https://medium.com/@CharlesYu/the-ultimate-guide-to-liquidation-preferences-478dda9f9332).
+    Investors and entrepreneurs negotiate a lot of these details, including:
     - The **multiple**, a number designating how many times the investor must be paid back before
-    common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
-    higher).
+      common shareholders receive proceeds (often the multiple is 1X, but it can be 2X or
+      higher).
     - Whether preferred stock is
-    [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
-    investors get their money back and also participate in proceeds from common stock.
+      [**participating**](https://en.wikipedia.org/wiki/Participating_preferred_stock), meaning
+      investors get their money back and also participate in proceeds from common stock.
     - Whether there is a **cap**, which limits the payout if it is participating.
 
 - **Secondary buyers**: Thinking on all this
   [has evolved](http://www.industryventures.com/2014/12/02/employee-liquidity-good-for-private-companies/)
   [in recent years](https://techcrunch.com/2015/10/14/selling-private-company-shares-2-0/).
   Some companies do see value in offering (mostly limited) opportunities for sale.
-	- [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
+  		\- [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
     particularly for well-known pre-IPO companies.
 
 - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
+
   - At grant and vesting:
     - No tax if granted at FMV
   - At exercise:
@@ -184,8 +188,8 @@ ElastiCache Basics:
 
 DynamoDB Basics:
 
-  -	📒 [Homepage](https://aws.amazon.com/dynamodb/) ∙ [Developer guide](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/) ∙ [FAQ](https://aws.amazon.com/dynamodb/faqs/) ∙ [Pricing](https://aws.amazon.com/dynamodb/pricing/)
-  -	**DynamoDB** is a [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database with focuses on speed, flexibility, and scalability. DynamoDB is priced on a combination of throughput and storage.
+- 📒 [Homepage](https://aws.amazon.com/dynamodb/) ∙ [Developer guide](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/) ∙ [FAQ](https://aws.amazon.com/dynamodb/faqs/) ∙ [Pricing](https://aws.amazon.com/dynamodb/pricing/)
+- **DynamoDB** is a [NoSQL](https://en.wikipedia.org/wiki/NoSQL) database with focuses on speed, flexibility, and scalability. DynamoDB is priced on a combination of throughput and storage.
 
 ElastiCache Tips:
 
@@ -400,89 +404,74 @@ The [Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) in [Califor
 [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)/[Google](https://en.wikipedia.org/wiki/Google),
 [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)/[Google](https://en.wikipedia.org/wiki/Google).
 
-
 ### More URLs
 
-* 📈 adpushup ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/adpushup-seed-pitch-deck))
-* 📈 AirBnB ([2009, Seed](http://www.slideshare.net/ryangum/airbnb-pitch-deck-from-2008))
-* 📈 AppNexus ([2007, Seed](http://www.slideshare.net/CamilleRicketts2/appnexus-first-pitch-deck))
-* 📈 Bliss ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/blissai-pitch-deck))
-* 📈 Boomtrain ([2014, ?](https://boomtrain.docsend.com/view/3giicsi))
-* 📈 Buffer ([2011, Seed](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck))
-* 📈 BuzzFeed ([2008, Series A](https://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008/))
-* 📈 Castle ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/castle-pitch-deck-75070238))
-* 📈 Coinbase ([2012, Seed](https://www.slideshare.net/BrianArmstrong29/coinbase-seed-round-pitch-deck)); [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b) on the round by Brian Armstrong, CEO of Coinbase.
-* 📈 Contently ([2014, Series B](https://www.slideshare.net/GoCanvas/the-10-most-interesting-slides-that-helped-our-saas-company-raise-9-million-42566344))
-* 📈 Cubeit ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/cubeit-pitch-deck))
-* 📈 Crew ([2015, Series A](https://www.slideshare.net/AlexanderJarvis/crew-pitch-deck-seriesa))
-* 📈 DocSend ([2013, Seed](https://docsend.com/view/n43v89r))
-* 📈 Dwolla ([2013, Series C](http://www.businessinsider.com/18-slide-pitch-deck-lands-payment-startup-dwolla-165-million-2013-4?op=1))
-* 📈 eShares ([2014, Series A](https://esharesinc.app.box.com/s/fjixdt78tl9henx2c75etkx1sootwo9p)); [Commentary](https://medium.com/eshares-blog/eshares-series-a-c6bad9ad3721#.alf0y6i99) on the round by [Henry Ward](https://twitter.com/henrysward), CEO of eShares
-* 📈 Foursquare ([2009, Seed](http://www.slideshare.net/alkarmi/foursquare-1stpitch2009))
-* 📈 Front ([2016, Series A](http://www.slideshare.net/MathildeCollin/front-series-a-deck-64596550?ref=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.slideshare.net%2Fslideshow%2Fembed_code%2Fkey%2FFXlrFkbldHJoki&url=http%3A%2F%2Fwww.slideshare.net%2FMathildeCollin%2Ffront-series-a-deck-64596550&image=http%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Fdecktopublish-1-160801215931-thumbnail-4.jpg%3Fcb%3D1470090544&key=d04bfffea46d4aeda930ec88cc64b87c&type=text%2Fhtml&schema=slideshare)); [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz) on the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
-* 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
-* 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
-
+- 📈 adpushup ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/adpushup-seed-pitch-deck))
+- 📈 AirBnB ([2009, Seed](http://www.slideshare.net/ryangum/airbnb-pitch-deck-from-2008))
+- 📈 AppNexus ([2007, Seed](http://www.slideshare.net/CamilleRicketts2/appnexus-first-pitch-deck))
+- 📈 Bliss ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/blissai-pitch-deck))
+- 📈 Boomtrain ([2014, ?](https://boomtrain.docsend.com/view/3giicsi))
+- 📈 Buffer ([2011, Seed](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck))
+- 📈 BuzzFeed ([2008, Series A](https://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008/))
+- 📈 Castle ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/castle-pitch-deck-75070238))
+- 📈 Coinbase ([2012, Seed](https://www.slideshare.net/BrianArmstrong29/coinbase-seed-round-pitch-deck)); [Commentary](https://medium.com/@barmstrong/the-coinbase-seed-round-pitch-deck-50c8ec91d40b) on the round by Brian Armstrong, CEO of Coinbase.
+- 📈 Contently ([2014, Series B](https://www.slideshare.net/GoCanvas/the-10-most-interesting-slides-that-helped-our-saas-company-raise-9-million-42566344))
+- 📈 Cubeit ([2017, Seed](https://www.slideshare.net/AlexanderJarvis/cubeit-pitch-deck))
+- 📈 Crew ([2015, Series A](https://www.slideshare.net/AlexanderJarvis/crew-pitch-deck-seriesa))
+- 📈 DocSend ([2013, Seed](https://docsend.com/view/n43v89r))
+- 📈 Dwolla ([2013, Series C](http://www.businessinsider.com/18-slide-pitch-deck-lands-payment-startup-dwolla-165-million-2013-4?op=1))
+- 📈 eShares ([2014, Series A](https://esharesinc.app.box.com/s/fjixdt78tl9henx2c75etkx1sootwo9p)); [Commentary](https://medium.com/eshares-blog/eshares-series-a-c6bad9ad3721#.alf0y6i99) on the round by [Henry Ward](https://twitter.com/henrysward), CEO of eShares
+- 📈 Foursquare ([2009, Seed](http://www.slideshare.net/alkarmi/foursquare-1stpitch2009))
+- 📈 Front ([2016, Series A](http://www.slideshare.net/MathildeCollin/front-series-a-deck-64596550?ref=https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.slideshare.net%2Fslideshow%2Fembed_code%2Fkey%2FFXlrFkbldHJoki&url=http%3A%2F%2Fwww.slideshare.net%2FMathildeCollin%2Ffront-series-a-deck-64596550&image=http%3A%2F%2Fcdn.slidesharecdn.com%2Fss_thumbnails%2Fdecktopublish-1-160801215931-thumbnail-4.jpg%3Fcb%3D1470090544&key=d04bfffea46d4aeda930ec88cc64b87c&type=text%2Fhtml&schema=slideshare)); [Commentary](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.7xlz4lwxz) on the round by [Mathilde Collin](https://twitter.com/collinmathilde), CEO of Front
+- 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
+- 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
 
 ## Footnotes and bare links
 
 🔸 If you do send a pitch deck via email, expect materials you share with investors to get
-leaked to other investors, your competitors, and the press.[^191] That doesn’t mean you
+leaked to other investors, your competitors, and the press.[^paulgraham.mscnvt] That doesn’t mean you
 shouldn’t tell investors what they need to know, but it does mean you want to be careful
 with how you share that information.
 You might, for example, send investors a less sensitive version of your pitch deck via
 email, but include additional slides when you actually present to them at their firm.
 
-To create an effective story, you have to consider what motivates the recipient of your story. Take Henry Ford, “If there is any one secret of success it lies in the ability to get the other person’s point of view and see things from their angle as well as your own.” [^177]
+To create an effective story, you have to consider what motivates the recipient of your story. Take Henry Ford, “If there is any one secret of success it lies in the ability to get the other person’s point of view and see things from their angle as well as your own.” [^carnegieda.327r3k]
 
 Spacing around footnotes can be confusing.[^a] Like this.[^a][^b] Or. [^a] [^b] This. [^a][^b][^c]
 
-❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^210]
+❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^fm16p80.lm4ika]
 
-[^2]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle Location 1220). Wiley, 2013. Kindle Edition.
+[^auletbilld.gax24s]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle Location 1220). Wiley, 2013. Kindle Edition.
 
-[^191]: http://paulgraham.com/fr.html
-
-
-[^177]: Carnegie, Dale. *How To Win Friends and Influence People* (p. 35). Simon & Schuster. Kindle Edition.
-
-[^207]: [https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html](https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html)
-
-[^210]: FM16, p. 80
-
-Links like these underline ones come up from some exports. And let's try some links with angle brackets.
-
-[^52]: [[https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com]{.underline}](https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com)
-
-[^53]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
-
-[^axioscomth.1lioru]: <https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html>
+[^paulgraham.mscnvt]: <http://paulgraham.com/fr.html>
 
 [^carnegieda.327r3k]: Carnegie, Dale. *How To Win Friends and Influence People* (p. 35). Simon & Schuster. Kindle Edition.
 
-[^53]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
+[^bostonvcbl.vpgk9b]: <https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html>
 
-[^multiline]: The distinction between “hiring” and “recruiting” isn’t
-    universally agreed upon. Some people think of hiring as a superset
-    of recruiting, some consider it to be the other way around. However
-    you think of it, both recruiting and hiring involve selling
-    candidates on the value proposition of a company and ensuring the
-    alignment of interests between the two parties.
+[^fm16p80.lm4ika]: FM16, p. 80
 
-And by contrast here a bare link is like this https://www.google.com/
+Links like these underline ones come up from some exports. And let's try some links with angle brackets.
+
+[^httpswwwvo.9vger7]: [\[https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com\]{.underline}](https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com)
+
+[^fastcompan.lqwo3a]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
+
+[^axioscomth.1lioru]: <https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html>
+
+[^thedistinc.pc5o6n]: The distinction between “hiring” and “recruiting” isn’t universally agreed upon. Some people think of hiring as a superset of recruiting, some consider it to be the other way around. However you think of it, both recruiting and hiring involve selling candidates on the value proposition of a company and ensuring the alignment of interests between the two parties.
+
+And by contrast here a bare link is like this <https://www.google.com/>
 
 ## Some other stuff
-
 
 ```javascript
 // This is a code block
 var x = 5;
 ```
 
-```
-This is
-another.
-```
+    This is
+    another.
 
 <div align="center">
 	<img src="images/rounds.png" alt="awesome">
@@ -491,16 +480,16 @@ another.
   <br>
 </div>
 
-| Specific AWS Services                 | Basics                         | Tips                          | Gotchas                                        |
-|---------------------------------------|--------------------------------|-------------------------------|------------------------------------------------|
+| Specific AWS Services                 | Basics                         | Tips                         | Gotchas                                         |
+| ------------------------------------- | ------------------------------ | ---------------------------- | ----------------------------------------------- |
 | [Security and IAM](#security-and-iam) | [📗](#security-and-iam-basics) | [📘](#security-and-iam-tips) | [📙](#security-and-iam-gotchas-and-limitations) |
-| [S3](#s3) | [📗](#s3-basics) | [📘](#s3-tips) | [📙](#s3-gotchas-and-limitations) |
-| [EC2](#ec2) | [📗](#ec2-basics) | [📘](#ec2-tips) | [📙](#ec2-gotchas-and-limitations) |
-| [CloudWatch](#cloudwatch) | [📗](#cloudwatch-basics) | [📘](#cloudwatch-tips) | [📙](#cloudwatch-gotchas-and-limitations) |
-| [AMIs](#amis) | [📗](#ami-basics) | [📘](#ami-tips) | [📙](#ami-gotchas-and-limitations) |
-| [Auto Scaling](#auto-scaling) | [📗](#auto-scaling-basics) | [📘](#auto-scaling-tips) | [📙](#auto-scaling-gotchas-and-limitations) |
+| [S3](#s3)                             | [📗](#s3-basics)               | [📘](#s3-tips)               | [📙](#s3-gotchas-and-limitations)               |
+| [EC2](#ec2)                           | [📗](#ec2-basics)              | [📘](#ec2-tips)              | [📙](#ec2-gotchas-and-limitations)              |
+| [CloudWatch](#cloudwatch)             | [📗](#cloudwatch-basics)       | [📘](#cloudwatch-tips)       | [📙](#cloudwatch-gotchas-and-limitations)       |
+| [AMIs](#amis)                         | [📗](#ami-basics)              | [📘](#ami-tips)              | [📙](#ami-gotchas-and-limitations)              |
+| [Auto Scaling](#auto-scaling)         | [📗](#auto-scaling-basics)     | [📘](#auto-scaling-tips)     | [📙](#auto-scaling-gotchas-and-limitations)     |
 
 - 📒 [FAQ](https://aws.amazon.com/cloudwatch/faqs/) ∙
   [Pricing](https://aws.amazon.com/cloudwatch/pricing/)
-      - 🔹Blahxxx
-      - ❗Blahxxx
+      \- 🔹Blahxxx
+      \- ❗Blahxxx
