@@ -1,14 +1,14 @@
 # atom-flowmark
 
 Flowmark is an [Atom plugin](https://atom.io/packages) to auto-format Markdown text.
-
 It aims to intelligently wrap lines for ease of reading and collaboration.
 
 It draws inspiration from auto-formatting as pioneered by
-[gofmt](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhyGofmtAccepted), previous
-implementations like [markdownfmt](https://github.com/shurcooL/markdownfmt), and does some
-new things regarding line wrappinig, like
-[semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/).
+[gofmt](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhyGofmtAccepted) and previous
+implementations like [markdownfmt](https://github.com/shurcooL/markdownfmt), but also does
+some helpful new things related to wrapping lines and cleaning up punctuation.
+It also has some optional tools like cleaning up common Markdown problems and
+“normalizing” footnotes.
 
 ![Auto-format selection](images/screenshot.gif)
 
@@ -21,24 +21,25 @@ mostly related to the handling of paragraphs of text.
 Existing auto-formatters standardize the common annoyances of inconsistent indentation,
 different heading styles, and the like.
 
-## Why also wrap lines?
+## Why also auto-wrap lines in Markdown?
 
 The real challenge of collaborative editing in Markdown (and I’ve seen this a lot with
-projects like [TAOCL](https://github.com/jlevy/the-art-of-command-line)) is **confusing diffs**
-and **merge conflicts** common with multiple people editing paragraph-long lines on large,
-GitHub-hosted Markdown files.
+projects of my own, like [TAOCL](https://github.com/jlevy/the-art-of-command-line)) is
+**confusing diffs** and **merge conflicts**. These are common and frustrating when multiple
+people edit paragraph-long lines on large, GitHub-hosted Markdown files.
 
 Flowmark tries a different approach:
-It intelligently breaks lines on sentence boundaries when they are reasonable, while still
-preserving the way the Markdown will render.
-This may seem like an odd idea at first, but is a solution to two goals:
+It intelligently breaks lines at “reasonable” places, usually on sentence boundaries,
+while still preserving the way the Markdown will render.
+This may seem like an odd idea at first, but is a solution to two (seemingly conflicting)
+goals:
 
-- Keeping all lines reasonably short, which aligns better with traditional Git and GitHub
-  workflows and tools.
-- Avoiding reflowing text gratuitously.
-  It does not auto-wrap text on whole paragraphs every time there is a small change.
-  Basically it “stabilizes” the line wrapping, so small changes—say only a few words in one
-  sentence—only impact nearby lines in the file.
+1. Keeping all lines reasonably short, which aligns better with traditional Git and GitHub
+   workflows and tools.
+2. Avoiding reflowing text gratuitously.
+   It does not auto-wrap text on whole paragraphs every time there is a small change.
+   Basically it “stabilizes” the line wrapping, so small changes—say only a few words in one
+   sentence—only impact nearby lines in the file.
 
 It also wraps links with long URLs in them intelligently, so they don’t bungle up your
 paragraphs. Take a look at
@@ -90,6 +91,8 @@ before saving or committing.
 
 ## Alternatives and previous work
 
+The idea of wrapping text based on sentences or phrases from the idea of
+[semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 Auto-formatting Markdown has been done before, notably with
 [tidy-markdown](https://github.com/slang800/tidy-markdown) and
 [atom-tidy-markdown](https://github.com/slang800/atom-tidy-markdown) (also used in
