@@ -441,25 +441,25 @@ Spacing around footnotes can be confusing.[^a] Like this.[^a][^b] Or. [^a] [^b] 
 
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^fm16p80.lm4ika]
 
-[^auletbilld.gax24s]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle Location 1220). Wiley, 2013. Kindle Edition.
+[^auletbilld.gax24s.orphan]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle Location 1220). Wiley, 2013. Kindle Edition.
 
 [^paulgraham.mscnvt]: <http://paulgraham.com/fr.html>
 
 [^carnegieda.327r3k]: Carnegie, Dale. *How To Win Friends and Influence People* (p. 35). Simon & Schuster. Kindle Edition.
 
-[^bostonvcbl.vpgk9b]: <https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html>
+[^bostonvcbl.vpgk9b.orphan]: <https://bostonvcblog.typepad.com/vc/2009/07/in-vc-deals-price-doesnt-matter-but-the-promote-does.html>
 
 [^fm16p80.lm4ika]: FM16, p. 80
 
 Links like these underline ones come up from some exports. And let's try some links with angle brackets.
 
-[^httpswwwvo.9vger7]: [\[https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com\]{.underline}](https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com)
+[^httpswwwvo.9vger7.orphan]: [\[https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com\]{.underline}](https://www.vox.com/2014/3/5/11624228/how-a-startup-created-the-no-1-rated-mattress-on-amazon-com)
 
-[^fastcompan.lqwo3a]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
+[^fastcompan.lqwo3a.orphan]: <https://www.fastcompany.com/90216464/the-29-billion-battle-to-own-how-america-sleeps>
 
-[^axioscomth.1lioru]: <https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html>
+[^axioscomth.1lioru.orphan]: <https://www.axios.com/the-rise-of-pre-seed-venture-capital-1513305959-13da61c8-15f8-441e-b016-d29902bff8bf.html>
 
-[^thedistinc.pc5o6n]: The distinction between “hiring” and “recruiting” isn’t universally agreed upon. Some people think of hiring as a superset of recruiting, some consider it to be the other way around. However you think of it, both recruiting and hiring involve selling candidates on the value proposition of a company and ensuring the alignment of interests between the two parties.
+[^thedistinc.pc5o6n.orphan]: The distinction between “hiring” and “recruiting” isn’t universally agreed upon. Some people think of hiring as a superset of recruiting, some consider it to be the other way around. However you think of it, both recruiting and hiring involve selling candidates on the value proposition of a company and ensuring the alignment of interests between the two parties.
 
 And by contrast here a bare link is like this <https://www.google.com/>
 
