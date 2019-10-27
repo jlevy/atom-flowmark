@@ -1,11 +1,14 @@
 # atom-flowmark
 
-Flowmark is a new, experimental Atom plugin to auto-format Markdown text, with the
-addition of reflowing text on sentences when possible.
-It’s a bit like if
-[gofmt](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhyGofmtAccepted) and
-[semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/) had a baby
-written in JavaScript.
+Flowmark is an [Atom plugin](https://atom.io/packages) to auto-format Markdown text.
+
+It aims to intelligently wrap lines for ease of reading and collaboration.
+
+It draws inspiration from auto-formatting as pioneered by
+[gofmt](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhyGofmtAccepted), previous
+implementations like [markdownfmt](https://github.com/shurcooL/markdownfmt), and does some
+new things regarding line wrappinig, like
+[semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 
 ![Auto-format selection](screenshot.gif)
 
@@ -17,9 +20,13 @@ mostly related to the handling of paragraphs of text.
 
 Existing auto-formatters standardize the common annoyances of inconsistent indentation,
 different heading styles, and the like.
-But the real challenge of collaborative editing is **confusing diffs** and **merge conflicts**
-common with multiple people editing paragraph-long lines on large GitHub-hosted Markdown
-files.
+
+## Why also wrap lines?
+
+The real challenge of collaborative editing in Markdown (and I’ve seen this a lot with
+projects like [TAOCL](https://github.com/jlevy/the-art-of-command-line)) is **confusing diffs**
+and **merge conflicts** common with multiple people editing paragraph-long lines on large,
+GitHub-hosted Markdown files.
 
 Flowmark tries a different approach:
 It intelligently breaks lines on sentence boundaries when they are reasonable, while still
@@ -47,13 +54,24 @@ Git blame also become meaningful (just as with a normal programming language).
 Note that the Flowmark formatting rules are a little complex, but that’s okay, as long as
 they’re consistent.
 
-## Other features
+## Flowmark features
 
-- Full, deterministic Markdown support, based on [Remark](https://github.com/remarkjs/remark)
-  and typographic fixes via [Textr](https://github.com/A/textr).
-- Switches (conservatively, avoiding overly aggressive rules) to smart quotes, dashes, and
+- **Full markdown support:**
+  Full, deterministic auto-formatting of Markdown, based on
+  [Remark](https://github.com/remarkjs/remark), and wrapping lines based on practical
+  heuristics.
+- **Typographic cleanups:**
+  Switches (conservatively, avoiding overly aggressive rules) to smart quotes, dashes, and
   the like, to clean up
-  [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html).
+  [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html). (based on
+  [Textr](https://github.com/A/textr)).(<https://pandoc.org/>).
+- **Footnote normalization:**
+  A new menu option to rewrite footnotes so they have unique, deterministically determined
+  ids. This is very helpful if you ever combine multiple Markdown docs together if they both
+  have footnotes!
+- **Fixes formatting errors:**
+  Has some optional menu items that clean up common problems in Markdown, such as when docs
+  are converted to Markdown using [Pandoc](https://pandoc.org/).
 
 ## Installation and use
 
@@ -78,3 +96,9 @@ These don’t try to reflow text, however.
 A related approach, just to detect errors, is
 [linter-markdown](https://github.com/AtomLinter/linter-markdown), which uses
 [remark-lint](https://github.com/remarkjs/remark-lint)’s framework in Atom.
+
+## Contributing
+
+Yes, please! We use this heavily at [Holloway](https://www.holloway.com/) but I don’t have
+much time to maintain it.
+Note tests are handled manually by running on the `tests/testdoc.*.md` documents.
