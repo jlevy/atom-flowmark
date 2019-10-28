@@ -23,11 +23,11 @@
               "command": "flowmark:smartQuotes"
             },
             {
-              "label": "Normalize footnote ids",
+              "label": "Normalize footnotes",
               "command": "flowmark:normalizeFootnotes"
             },
             {
-              "label": "Heavy clean up (exported pandoc/GDocs)",
+              "label": "Heavy cleanup (exported pandoc/GDocs)",
               "command": "flowmark:heavyCleanup"
             }
           ]

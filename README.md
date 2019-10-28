@@ -60,17 +60,18 @@ they’re consistent.
 - **Full markdown support:**
   Full, deterministic auto-formatting of Markdown, based on
   [Remark](https://github.com/remarkjs/remark), and wrapping lines based on practical
-  heuristics.
+  heuristics. This includes [YAML front-matter](https://jekyllrb.com/docs/front-matter/),
+  tables, and [footnotes](https://www.markdownguide.org/extended-syntax/#footnotes).
 - **Typographic cleanups:**
-  Switches (conservatively, avoiding overly aggressive rules) to smart quotes, dashes, and
-  the like, to clean up
-  [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html). (based on
-  [Textr](https://github.com/A/textr)).(<https://pandoc.org/>).
+  Converts ASCII quotes to smart quotes, dashes, and ellipses, to clean up
+  [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html) (based on
+  [Textr](https://github.com/A/textr)). This is done conservatively, avoiding over-aggressive
+  rules.
 - **Footnote normalization:**
-  A new “normalize footnote ids” menu option to rewrite footnotes so they have unique,
+  A “normalize footnotes” menu option to rewrite footnotes so they have unique,
   deterministic ids based on their contents.
   Usually footnotes are numbered (`[^1]`, `[^2]`, etc.)
-  but this is problematic if you ever try to merge Markdown documents.
+  but this is problematic if you ever try to combine multiple Markdown documents into one.
   This option makes that simple and easy if you run it before merging docs!
 - **Fixes common formatting errors:**
   Has some optional “heavy cleanup” menu items that clean up common problems in Markdown,
