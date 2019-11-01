@@ -34,16 +34,16 @@ He had spoken with the FBI. There was no time to lose.
 
 These companies add (or "issue") stock.
 
-Dash—dash. Dash—dash.
-Dash—dash.
+Dash—dash. Dash — dash.
+Dash — dash.
 
 10–20 10–20 10—20.
 
-10 - 20 10–20 10—20.
+10 - 20 10 — 20 10 — 20.
 
 a-b a–b a—b.
 
-a - b a—b a—b.
+a - b a — b a — b.
 
 ## Wrapping tests
 
@@ -631,11 +631,11 @@ The same is true for links.
 
 And some dashes:
 
-- 🔥[The Culture Cliché](https://m.signalvnoise.com/the-culture-cliche/)—Claire Lew
-- 🔥[Most Company Culture Posts are Fluffy Bullshit—Here is what you actually need to know](https://medium.com/evergreen-business-weekly/most-company-culture-posts-are-fluffy-bullshit-here-is-what-you-actually-need-to-know-1cf8597a5c2c)—Eric
-  Jorgenson—summarizing the many dimensions of culture
-- 💳[The Culture Factor](https://hbr.org/2018/01/the-culture-factor)—Boris Groysberg, Jeremiah
-  Lee, Jesse Price, J. Yo-Jud Cheng
+- 🔥[The Culture Cliché](https://m.signalvnoise.com/the-culture-cliche/) — Claire Lew
+- 🔥[Most Company Culture Posts are Fluffy Bullshit — Here is what you actually need to know](https://medium.com/evergreen-business-weekly/most-company-culture-posts-are-fluffy-bullshit-here-is-what-you-actually-need-to-know-1cf8597a5c2c)
+  — Eric Jorgenson — summarizing the many dimensions of culture
+- 💳[The Culture Factor](https://hbr.org/2018/01/the-culture-factor) — Boris Groysberg,
+  Jeremiah Lee, Jesse Price, J. Yo-Jud Cheng
 - [Programming Your Culture](https://a16z.com/2012/12/18/programming-your-culture/) — Ben
   Horowitz (note this line has nonbreaking spaces)
 
