@@ -423,6 +423,13 @@ The [Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) in [Califor
 * 📈 Gaia Design ([2015, ?](https://www.slideshare.net/valentinelanger/presentation-gaia-design-furniture))
 * 📈 Intercom ([2011, Seed](http://www.slideshare.net/eoghanmccabe/intercoms-first-pitch-deck))
 
+And some dashes:
+
+- 🔥[The Culture Cliché](https://m.signalvnoise.com/the-culture-cliche/) – Claire Lew
+- 🔥[Most Company Culture Posts are Fluffy Bullshit — Here is what you actually need to know](https://medium.com/evergreen-business-weekly/most-company-culture-posts-are-fluffy-bullshit-here-is-what-you-actually-need-to-know-1cf8597a5c2c) — Eric Jorgenson – summarizing the many dimensions of culture
+- 💳[The Culture Factor](https://hbr.org/2018/01/the-culture-factor) – Boris Groysberg, Jeremiah Lee, Jesse Price, J. Yo-Jud Cheng
+- [Programming Your Culture](https://a16z.com/2012/12/18/programming-your-culture/) — Ben Horowitz (note this line has nonbreaking spaces)
+
 
 ## Footnotes and bare links
 
