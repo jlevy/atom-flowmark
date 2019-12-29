@@ -11,6 +11,7 @@
       "flowmark:reformatWrap",
       "flowmark:smartQuotes",
       "flowmark:normalizeFootnotes",
+      "flowmark:normalizeBoldface",
       "flowmark:heavyCleanup"
     ]
   },

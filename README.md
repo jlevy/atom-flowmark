@@ -74,8 +74,11 @@ they’re consistent.
   but this is problematic if you ever try to combine multiple Markdown documents into one.
   This option makes that simple and easy if you run it before merging docs!
 - **Fixes common formatting errors:**
-  Has some optional “heavy cleanup” menu items that clean up common problems in Markdown,
-  such as when docs are converted to Markdown using [Pandoc](https://pandoc.org/).
+  A “normalize punctuation boldfacing” menu option that makes trailing terminating
+  punctuation (any of the characters .:?!) boldface when following boldface text.
+  This is common typographic practice but rarely done consistently in most documents.
+  A “heavy cleanup” menu item cleans up common problems in Markdown, such as when docs are
+  converted to Markdown using [Pandoc](https://pandoc.org/).
 
 ![Flowmark menu](images/flowmark-menu.png)
 

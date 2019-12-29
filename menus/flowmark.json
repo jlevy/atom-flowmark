@@ -27,6 +27,10 @@
               "command": "flowmark:normalizeFootnotes"
             },
             {
+              "label": "Normalize punctuation boldfacing",
+              "command": "flowmark:normalizeBoldface"
+            },
+            {
               "label": "Heavy cleanup (exported pandoc/GDocs)",
               "command": "flowmark:heavyCleanup"
             }
