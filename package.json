@@ -35,5 +35,24 @@
     "unist-util-is": "^2.1.2",
     "unist-util-visit": "^1.4.0",
     "unist-util-visit-parents": "^2.0.0"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": true,
+    "trailingComma": "none"
+  },
+  "xo": {
+    "prettier": true,
+    "esnext": false
+  },
+  "scripts": {
+    "format": "xo --fix",
+    "test": "xo"
+  },
+  "devDependencies": {
+    "xo": "^0.25.3"
   }
 }
