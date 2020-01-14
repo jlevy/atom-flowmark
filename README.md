@@ -21,6 +21,36 @@ mostly related to the handling of paragraphs of text.
 Existing auto-formatters standardize the common annoyances of inconsistent indentation,
 different heading styles, and the like.
 
+## Flowmark Features
+
+- **Full markdown support:**
+  Full, deterministic auto-formatting of Markdown, based on
+  [Remark](https://github.com/remarkjs/remark), and wrapping lines based on practical
+  heuristics. This includes [YAML front-matter](https://jekyllrb.com/docs/front-matter/),
+  tables, and [footnotes](https://www.markdownguide.org/extended-syntax/#footnotes).
+- **Typographic cleanups:**
+  Converts ASCII quotes to smart quotes, dashes, and ellipses, to clean up
+  [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html) (based on
+  [Textr](https://github.com/A/textr)). This is done conservatively, avoiding over-aggressive
+  rules.
+- **Heading normalization:**
+  Rewrites all headings to Title Case, to avoid inconsistent capitalization.
+- **Footnote normalization:**
+  A “normalize footnotes” menu option to rewrite footnotes so they have unique,
+  deterministic ids based on their contents.
+  Usually footnotes are numbered (`[^1]`, `[^2]`, etc.)
+  but this is problematic if you ever try to combine multiple Markdown documents into one.
+  This option makes that simple and easy if you run it before merging docs!
+- **Fixes other formatting errors:**
+  This includes menu options that allow:
+  - Normalize punctuation boldfacing to make trailing terminating punctuation (any of the
+    characters `.:?!`) boldface when following boldface text.
+    This is common typographic practice but often done inconsistently.
+  - “Heavy cleanup” cleans up common problems in Markdown, such as when docs are converted to
+    Markdown using [Pandoc](https://pandoc.org/).
+
+![Flowmark menu](images/flowmark-menu.png)
+
 ## Why Also Auto-Wrap Lines in Markdown?
 
 The real challenge of collaborative editing in Markdown (and I’ve seen this a lot with
@@ -54,36 +84,6 @@ Unlike the situation with paragraph-long lines, shorter lines mean diff line cou
 Git blame also become meaningful (just as with a normal programming language).
 Note that the Flowmark formatting rules are a little complex, but that’s okay, as long as
 they’re consistent.
-
-## Flowmark Features
-
-- **Full markdown support:**
-  Full, deterministic auto-formatting of Markdown, based on
-  [Remark](https://github.com/remarkjs/remark), and wrapping lines based on practical
-  heuristics. This includes [YAML front-matter](https://jekyllrb.com/docs/front-matter/),
-  tables, and [footnotes](https://www.markdownguide.org/extended-syntax/#footnotes).
-- **Typographic cleanups:**
-  Converts ASCII quotes to smart quotes, dashes, and ellipses, to clean up
-  [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html) (based on
-  [Textr](https://github.com/A/textr)). This is done conservatively, avoiding over-aggressive
-  rules.
-- **Heading normalization:**
-  Rewrites all headings to Title Case, to avoid inconsistent capitalization.
-- **Footnote normalization:**
-  A “normalize footnotes” menu option to rewrite footnotes so they have unique,
-  deterministic ids based on their contents.
-  Usually footnotes are numbered (`[^1]`, `[^2]`, etc.)
-  but this is problematic if you ever try to combine multiple Markdown documents into one.
-  This option makes that simple and easy if you run it before merging docs!
-- **Fixes other formatting errors:**
-  This includes menu options that allow:
-  - Normalize punctuation boldfacing to make trailing terminating punctuation (any of the
-    characters `.:?!`) boldface when following boldface text.
-    This is common typographic practice but often done inconsistently.
-  - “Heavy cleanup” cleans up common problems in Markdown, such as when docs are converted to
-    Markdown using [Pandoc](https://pandoc.org/).
-
-![Flowmark menu](images/flowmark-menu.png)
 
 ## Installation and Use
 
