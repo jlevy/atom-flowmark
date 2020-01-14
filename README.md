@@ -1,4 +1,4 @@
-# atom-flowmark
+# Atom-Flowmark
 
 Flowmark is an [Atom plugin](https://atom.io/packages) to auto-format Markdown source.
 
@@ -12,7 +12,7 @@ It also has some optional tools like cleaning up common Markdown problems and
 
 ![Auto-format selection](images/screenshot.gif)
 
-## Why auto-format Markdown?
+## Why Auto-Format Markdown?
 
 Auto-formatting is known to be a Very Good Thing when multiple programmers work together.
 But it turns out the same idea can be hard to apply for Markdown, for subtle reasons
@@ -21,7 +21,7 @@ mostly related to the handling of paragraphs of text.
 Existing auto-formatters standardize the common annoyances of inconsistent indentation,
 different heading styles, and the like.
 
-## Why also auto-wrap lines in Markdown?
+## Why Also Auto-Wrap Lines in Markdown?
 
 The real challenge of collaborative editing in Markdown (and I’ve seen this a lot with
 projects of my own, like [TAOCL](https://github.com/jlevy/the-art-of-command-line)) is
@@ -55,7 +55,7 @@ Git blame also become meaningful (just as with a normal programming language).
 Note that the Flowmark formatting rules are a little complex, but that’s okay, as long as
 they’re consistent.
 
-## Flowmark features
+## Flowmark Features
 
 - **Full markdown support:**
   Full, deterministic auto-formatting of Markdown, based on
@@ -76,15 +76,15 @@ they’re consistent.
 - **Fixes common formatting errors:**
   This includes menu options that allow:
   - **Normalize headings** to Title Case, to avoid uneven capitalization in headings.
-  - **Normalize punctuation boldfacing** menu to makes trailing terminating punctuation (any of
-    the characters .:?!) boldface when following boldface text.
-    This is common typographic practice but rarely done consistently in most documents.
+  - **Normalize punctuation boldfacing** to make trailing terminating punctuation (any of the
+    characters `.:?!`) boldface when following boldface text.
+    This is common typographic practice but often done inconsistently.
   - **Heavy cleanup** cleans up common problems in Markdown, such as when docs are converted to
     Markdown using [Pandoc](https://pandoc.org/).
 
 ![Flowmark menu](images/flowmark-menu.png)
 
-## Installation and use
+## Installation and Use
 
 Install as usual in Atom, by going to preferences, select install, and search for
 “flowmark”. You’ll then have a Flowmark menu item under *Packages*. Or use the hot key
@@ -94,7 +94,7 @@ It helps to use [line-diff-details-plus](https://atom.io/packages/line-diff-deta
 [GitHub Desktop](https://desktop.github.com/), or something similar to see and review changes
 before saving or committing.
 
-## Alternatives and previous work
+## Alternatives and Previous Work
 
 The idea of wrapping text based on sentences or phrases from the idea of
 [semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/).
