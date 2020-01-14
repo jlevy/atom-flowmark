@@ -49,7 +49,7 @@
     "esnext": false
   },
   "scripts": {
-    "format": "xo --fix",
+    "format": "xo --prettier --fix",
     "test": "xo"
   },
   "devDependencies": {
