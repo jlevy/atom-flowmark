@@ -67,19 +67,20 @@ they’re consistent.
   [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html) (based on
   [Textr](https://github.com/A/textr)). This is done conservatively, avoiding over-aggressive
   rules.
+- **Heading normalization:**
+  Rewrites all headings to Title Case, to avoid inconsistent capitalization.
 - **Footnote normalization:**
   A “normalize footnotes” menu option to rewrite footnotes so they have unique,
   deterministic ids based on their contents.
   Usually footnotes are numbered (`[^1]`, `[^2]`, etc.)
   but this is problematic if you ever try to combine multiple Markdown documents into one.
   This option makes that simple and easy if you run it before merging docs!
-- **Fixes common formatting errors:**
+- **Fixes other formatting errors:**
   This includes menu options that allow:
-  - **Normalize headings** to Title Case, to avoid uneven capitalization in headings.
-  - **Normalize punctuation boldfacing** to make trailing terminating punctuation (any of the
+  - Normalize punctuation boldfacing to make trailing terminating punctuation (any of the
     characters `.:?!`) boldface when following boldface text.
     This is common typographic practice but often done inconsistently.
-  - **Heavy cleanup** cleans up common problems in Markdown, such as when docs are converted to
+  - “Heavy cleanup” cleans up common problems in Markdown, such as when docs are converted to
     Markdown using [Pandoc](https://pandoc.org/).
 
 ![Flowmark menu](images/flowmark-menu.png)
