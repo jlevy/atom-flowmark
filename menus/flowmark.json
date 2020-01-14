@@ -27,6 +27,10 @@
               "command": "flowmark:normalizeFootnotes"
             },
             {
+              "label": "Normalize headings to Title Case",
+              "command": "flowmark:normalizeHeadings"
+            },
+            {
               "label": "Normalize punctuation boldfacing",
               "command": "flowmark:normalizeBoldface"
             },

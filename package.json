@@ -11,6 +11,7 @@
       "flowmark:reformatWrap",
       "flowmark:smartQuotes",
       "flowmark:normalizeFootnotes",
+      "flowmark:normalizeHeadings",
       "flowmark:normalizeBoldface",
       "flowmark:heavyCleanup"
     ]
@@ -28,6 +29,7 @@
     "remark-stringify": "^5.0.0",
     "remark-textr": "^3.0.3",
     "textr": "^0.3.0",
+    "title-case": "^3.0.2",
     "typographic-quotes": "^2.0.1",
     "unified": "^7.1.0",
     "unist-util-is": "^2.1.2",
