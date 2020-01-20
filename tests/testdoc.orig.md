@@ -26,6 +26,18 @@ decisions for those who give and *receive it*. Blah blah blah and blah.
   for signing. (Signing bonuses usually have some strings attached—for example, you could
   have to pay back the bonus if you leave the company within 12 or 24 months.)
 
+### General resources
+
+- Mark P. Cussen, Investopedia,
+  [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
+  updated 2017.
+- Alex MacCaw,
+  [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
+  2013.
+- Andy Rachleff, Wealthfront,
+  [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
+  2014.
+
 
 ## Some apostrophes and quotes--and dashes, too
 
