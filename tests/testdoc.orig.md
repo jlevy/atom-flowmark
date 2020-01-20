@@ -17,6 +17,11 @@ The dangers of 'culture fit'.
 
 > The dangers of 'culture fit'.
 
+The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
+stock, stock options, and restricted stock units—are **notoriously complex**. Equity
+compensation involves confounding terminology, legal obscurities, and many high-stakes
+decisions for those who give and *receive it*. Blah blah blah and blah.
+
 ## Some apostrophes and quotes--and dashes, too
 
 "Hello," he said! "What's... your specialty?" he enquired (in an idle tone).
