@@ -22,6 +22,11 @@ stock, stock options, and restricted stock units—are **notoriously complex**. 
 compensation involves confounding terminology, legal obscurities, and many high-stakes
 decisions for those who give and *receive it*. Blah blah blah and blah.
 
+- **[Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp).** Cash you get just
+  for signing. (Signing bonuses usually have some strings attached—for example, you could
+  have to pay back the bonus if you leave the company within 12 or 24 months.)
+
+
 ## Some apostrophes and quotes--and dashes, too
 
 "Hello," he said! "What's... your specialty?" he enquired (in an idle tone).
