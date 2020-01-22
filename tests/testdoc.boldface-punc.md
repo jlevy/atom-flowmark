@@ -18,7 +18,7 @@ The dangers of 'culture fit'.
 > The dangers of 'culture fit'.
 
 The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
-stock, stock options, and restricted stock units—are **notoriously complex.** Equity
+stock, stock options, and restricted stock units—are **notoriously complex**. Equity
 compensation involves confounding terminology, legal obscurities, and many high-stakes
 decisions for those who give and *receive it*. Blah blah blah and blah.
 
@@ -75,7 +75,7 @@ the Center for American Entrepreneurship.)
 
 ### A few paragraphs and bullets
 
-A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant.** Of course, in reality, varied experience exists within an individual reader. Most people may already know *something*, and some people are quicker learners than others. Even world class experts most likely only really know parts of a subject, and contributors may have practical experience in one role--perhaps they have been an entrepreneur, for example, but not an investor. So writing with the assumption that each reader could be both has a variety of advantages:  
+A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of course, in reality, varied experience exists within an individual reader. Most people may already know *something*, and some people are quicker learners than others. Even world class experts most likely only really know parts of a subject, and contributors may have practical experience in one role--perhaps they have been an entrepreneur, for example, but not an investor. So writing with the assumption that each reader could be both has a variety of advantages:  
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject understand **what they didn't know they didn't know**, and fill in the gaps in their knowledge. It encourages contribution from experts and people with practical experience.
 - Assuming 100% intelligence makes readers feel respected, and feel proud to be associated with the material. It will incline beginners to contribute their feedback.
@@ -91,7 +91,7 @@ A good heuristic is to assume your readers will be **100% intelligent and 100% i
   opinionated frameworks (the cathedral is a nod to [Raymond's metaphor](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar))
 * 🍺 Open source / free software
 
-- For well-known people, places, things, and events, prefer linking to the **Wikipedia page.**
+- For well-known people, places, things, and events, prefer linking to the **Wikipedia page**.
   - If there is a good quality Wikipedia page, prefer it to company or organization home pages, home pages of cities or states or agencies, and other things notable enough to be covered well.
   - Why? It usually gives a lot more context to the reader, and saves them having to Google to find it. It will also help with our search and web page snippet features, since the mouseovers on the links will be better quality than for those on marketing pages or poorly organized or out-of-date official websites.
     - Example: "The [Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) in [California](https://en.wikipedia.org/wiki/California) is home to both [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and [Google](https://en.wikipedia.org/wiki/Google)."
@@ -120,7 +120,7 @@ to $24,000, which means the tax benefit of buying is
 * When an investor is trying to get you to agree to a term you think is unfair, you need to protect your interests without sounding accusatory toward the investor: *“Sorry, I’m just inexperienced, I read/was told that it’s not wise to [term they want you to agree to].”* [[Paul Graham, Y Combinator](http://paulgraham.com/fr.html)]
 * When you want to test a VC’s interest to determine where to put your energy, you don’t want to sound desperate or pushy: *“I know that you’re not likely to give me a strong indication at this meeting, but I’d love to know if this is the* sort *of opportunity you could imagine taking. I'll happily put in the work to persuade you over time! But would I be better off focusing my attention on other VCs?”* [[Mark Suster, Upfront Ventures](https://bothsidesofthetable.com/how-to-develop-your-fundraising-strategy-58c2f0b22d6d)]
 
-🔹 **Automated and emerging legal services:** Many services like
+🔹 **Automated and emerging legal services**: Many services like
 [**Stripe Atlas**](https://stripe.com/atlas), **[Atrium](https://www.atrium.co/)**,
 [**Clerky**](https://www.clerky.com/), [*LegalZoom*](https://www.legalzoom.com/), and
 *[UpCounsel](https://www.upcounsel.com/)* automate or simplify tasks and processes provided by
@@ -129,7 +129,7 @@ eye on.
 
 - [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/) is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many taxpayers never worry about. Generally, you do not pay [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14). It also depends on the state you’re in, since your state taxes can significantly affect your deductions. Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax rate, but effectively is **35%** for some ranges, meaning it is [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/). AMT rules are so complicated you often need professional tax help if they might apply to you. The IRS's [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals) might also help.
 
-- ❗ If you do get an offer, you need to understand the value of the equity component. You need quite a bit of information to figure this out, and should just ask. If the company trusts you enough to be giving you an offer, and still doesn’t want to answer these questions about your offer, it's **a warning sign.** (There are many [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with more details about [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) like this.) Information that will help you weigh the offer might be: *What percentage of the company do the shares represent?* *What set of shares was used to compute that percentage (is this really the percentage of all shares, or some subset)?* *What did the last round value the company at? (I.e. the preferred share price times the total outstanding shares)?* *What is the most recent 409A valuation? When was it done, and will it be done again soon?* *Do you allow early exercise of my options?* *Are all employees on the same vesting schedule?* *Is there any acceleration of my vesting if the company is acquired?* *Do you have a policy regarding follow-on stock grants?* *Does the company have any repurchase right to vested shares?*
+- ❗ If you do get an offer, you need to understand the value of the equity component. You need quite a bit of information to figure this out, and should just ask. If the company trusts you enough to be giving you an offer, and still doesn’t want to answer these questions about your offer, it's **a warning sign**. (There are many [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with more details about [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) like this.) Information that will help you weigh the offer might be: *What percentage of the company do the shares represent?* *What set of shares was used to compute that percentage (is this really the percentage of all shares, or some subset)?* *What did the last round value the company at? (I.e. the preferred share price times the total outstanding shares)?* *What is the most recent 409A valuation? When was it done, and will it be done again soon?* *Do you allow early exercise of my options?* *Are all employees on the same vesting schedule?* *Is there any acceleration of my vesting if the company is acquired?* *Do you have a policy regarding follow-on stock grants?* *Does the company have any repurchase right to vested shares?*
 - Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed below.
 
 - ❗ It may not be common, but some companies retain a right to repurchase (buy back) vested shares. It's simple enough to ask, "Does the company have any repurchase right to *vested* shares?” (Note repurchasing *unvested* shares that were purchased via early exercise is different, and helps you.) If you don't want to ask, the fair market value repurchase right should be included in the documents you are being asked to sign or acknowledge that you have read and understood. (Skype had a [complex](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right) [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html) related to repurchasing.) You might find a repurchase right for vested shares in the Stock Plan itself, the Stock Option Agreement, the Exercise Agreement, the bylaws, the certificate of incorporation, or any other stockholder agreement.
@@ -279,29 +279,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [New York City](https://en.wikipedia.org/w
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [New York City](https://en.wikipedia.org/wiki/New_York_City).
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [New York City](https://en.wikipedia.org/wiki/New_York_City).
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City.**
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX **New York City**.
 
 **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 **New York City** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
