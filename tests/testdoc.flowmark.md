@@ -27,6 +27,10 @@ decisions for those who give and *receive it*. Blah blah blah and blah.
   for signing. (Signing bonuses usually have some strings attached—for example, you could
   have to pay back the bonus if you leave the company within 12 or 24 months.)
 
+- **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your
+  vested options and immediately sell a portion of them into the public market, removing the
+  need for cash up front to exercise and pay taxes.
+
 ### General resources
 
 - Mark P. Cussen, Investopedia,
