@@ -23,18 +23,19 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "mdast-util-to-string": "^1.0.6",
-    "remark-frontmatter": "^1.3.1",
-    "remark-parse": "^5.0.0",
-    "remark-stringify": "^5.0.0",
-    "remark-textr": "^3.0.3",
+    "mdast-util-to-string": "^1.1.0",
+    "remark-footnotes": "^1.0.0",
+    "remark-frontmatter": "^1.3.3",
+    "remark-parse": "^8.0.0",
+    "remark-stringify": "^8.0.0",
+    "remark-textr": "^4.0.0",
     "textr": "^0.3.0",
     "title-case": "^3.0.2",
     "typographic-quotes": "^2.0.1",
-    "unified": "^7.1.0",
-    "unist-util-is": "^2.1.2",
-    "unist-util-visit": "^1.4.0",
-    "unist-util-visit-parents": "^2.0.0"
+    "unified": "^8.0.0",
+    "unist-util-is": "^4.0.0",
+    "unist-util-visit": "^2.0.0",
+    "unist-util-visit-parents": "^3.0.0"
   },
   "prettier": {
     "tabWidth": 2,
@@ -46,13 +47,16 @@
   },
   "xo": {
     "prettier": true,
-    "esnext": false
+    "esnext": false,
+    "rules": {
+      "unicorn/string-content": "off"
+    }
   },
   "scripts": {
     "format": "xo --prettier --fix",
     "test": "xo"
   },
   "devDependencies": {
-    "xo": "^0.25.3"
+    "xo": "^0.28.0"
   }
 }
