@@ -113,6 +113,4 @@ A related approach, just to detect errors, is
 
 ## Contributing
 
-Yes, please! We use this heavily at [Holloway](https://www.holloway.com/) but I don’t have
-much time to maintain it.
-Note tests are handled manually by running on the `tests/testdoc.*.md` documents.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
