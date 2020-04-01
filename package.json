@@ -52,11 +52,16 @@
       "unicorn/string-content": "off"
     }
   },
+  "atomTestRunner": "atom-tap-test-runner",
   "scripts": {
     "format": "xo --prettier --fix",
-    "test": "xo"
+    "check": "xo",
+    "test-api": "atom --test tests/index.js",
+    "test": "npm run check && npm run test-api"
   },
   "devDependencies": {
+    "atom-tap-test-runner": "^7.0.0",
+    "tape": "^4.13.2",
     "xo": "^0.28.0"
   }
 }
