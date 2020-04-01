@@ -49,7 +49,8 @@
     "prettier": true,
     "esnext": false,
     "rules": {
-      "unicorn/string-content": "off"
+      "unicorn/string-content": "off",
+      "unicorn/prefer-trim-start-end": "off"
     }
   },
   "atomTestRunner": "atom-tap-test-runner",
