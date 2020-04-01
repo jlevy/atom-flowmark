@@ -17,6 +17,29 @@ The dangers of 'culture fit'.
 
 > The dangers of 'culture fit'.
 
+The [ways equity can be granted](#how-equity-is-granted) as compensation—including restricted
+stock, stock options, and restricted stock units—are **notoriously complex**. Equity
+compensation involves confounding terminology, legal obscurities, and many high-stakes
+decisions for those who give and *receive it*. Blah blah blah and blah.
+
+- **[Signing bonus](https://www.investopedia.com/terms/s/signing-bonus.asp).** Cash you get just
+  for signing. (Signing bonuses usually have some strings attached—for example, you could
+  have to pay back the bonus if you leave the company within 12 or 24 months.)
+
+- **Cashless exercise**: In the event of an IPO, a broker can allow you to exercise all of your vested options and immediately sell a portion of them into the public market, removing the need for cash up front to exercise and pay taxes.
+
+### General resources
+
+- Mark P. Cussen, Investopedia,
+  [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
+  updated 2017.
+- Alex MacCaw,
+  [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
+  2013.
+- Andy Rachleff, Wealthfront,
+  [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
+  2014.
+
 ## Some apostrophes and quotes--and dashes, too
 
 "Hello," he said! "What's... your specialty?" he enquired (in an idle tone).
@@ -51,7 +74,7 @@ the Center for American Entrepreneurship.)
 
 ### A few paragraphs and bullets
 
-A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of course, in reality, varied experience exists within an individual reader. Most people may already know *something*, and some people are quicker learners than others. Even world class experts most likely only really know parts of a subject, and contributors may have practical experience in one role--perhaps they have been an entrepreneur, for example, but not an investor. So writing with the assumption that each reader could be both has a variety of advantages:  
+A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of course, in reality, varied experience exists within an individual reader. Most people may already know *something*, and some people are quicker learners than others. Even world class experts most likely only really know parts of a subject, and contributors may have practical experience in one role--perhaps they have been an entrepreneur, for example, but not an investor. So writing with the assumption that each reader could be both has a variety of advantages:
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject understand **what they didn't know they didn't know**, and fill in the gaps in their knowledge. It encourages contribution from experts and people with practical experience.
 - Assuming 100% intelligence makes readers feel respected, and feel proud to be associated with the material. It will incline beginners to contribute their feedback.
@@ -108,6 +131,7 @@ eye on.
 - [Alternative Minimum Tax (AMT)](http://fairmark.com/general-taxation/alternative-minimum-tax/alternative-minimum-tax-101/) is a [complex part](https://www.irs.gov/taxtopics/tc556.html) of the federal tax code many taxpayers never worry about. Generally, you do not pay [unless you have high income (>$250K) or high deductions](http://www.marketwatch.com/story/congratulations-you-owe-the-alternative-minimum-tax-2014-01-14). It also depends on the state you’re in, since your state taxes can significantly affect your deductions. Confusingly, if you are affected, AMT tax rates are usually at **26%** or **28%** marginal tax rate, but effectively is **35%** for some ranges, meaning it is [higher than ordinary income tax for some incomes and lower for others](http://www.forbes.com/sites/feeonlyplanner/2011/12/16/the-alternative-minimum-tax-sweet-spot/). AMT rules are so complicated you often need professional tax help if they might apply to you. The IRS's [AMT Assistant](https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-(AMT)-Assistant-for-Individuals) might also help.
 
 - ❗ If you do get an offer, you need to understand the value of the equity component. You need quite a bit of information to figure this out, and should just ask. If the company trusts you enough to be giving you an offer, and still doesn’t want to answer these questions about your offer, it's **a warning sign**. (There are many [resources](https://blog.wealthfront.com/stock-options-14-crucial-questions/) out there with more details about [questions](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html) like this.) Information that will help you weigh the offer might be: *What percentage of the company do the shares represent?* *What set of shares was used to compute that percentage (is this really the percentage of all shares, or some subset)?* *What did the last round value the company at? (I.e. the preferred share price times the total outstanding shares)?* *What is the most recent 409A valuation? When was it done, and will it be done again soon?* *Do you allow early exercise of my options?* *Are all employees on the same vesting schedule?* *Is there any acceleration of my vesting if the company is acquired?* *Do you have a policy regarding follow-on stock grants?* *Does the company have any repurchase right to vested shares?*
+
 - Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed below.
 
 - ❗ It may not be common, but some companies retain a right to repurchase (buy back) vested shares. It's simple enough to ask, "Does the company have any repurchase right to *vested* shares?” (Note repurchasing *unvested* shares that were purchased via early exercise is different, and helps you.) If you don't want to ask, the fair market value repurchase right should be included in the documents you are being asked to sign or acknowledge that you have read and understood. (Skype had a [complex](https://www.quora.com/Which-valley-startups-have-a-Skype-like-repurchase-right) [controversy](http://www.wac6.com/wac6/2011/07/skypes-employee-stock-option-plan-worthless-only-if-you-quit-before-2014.html) related to repurchasing.) You might find a repurchase right for vested shares in the Stock Plan itself, the Stock Option Agreement, the Exercise Agreement, the bylaws, the certificate of incorporation, or any other stockholder agreement.
@@ -118,7 +142,6 @@ Venture capital firms fund companies-commonly referred to as startups-that have 
   [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
   liquidation.
-
   - [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
     can occur when the value of a company just doesn’t reach the number of dollars investors
     put into it. Because of liquidation preference, those holding preferred stock (investors)
@@ -148,7 +171,6 @@ Venture capital firms fund companies-commonly referred to as startups-that have 
     particularly for well-known pre-IPO companies.
 
 - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
-
   - At grant and vesting:
     - No tax if granted at FMV
   - At exercise:
@@ -487,14 +509,14 @@ var x = 5;
   <br>
 </div>
 
-| Specific AWS Services                 | Basics                         | Tips                         | Gotchas                                         |
-| ------------------------------------- | ------------------------------ | ---------------------------- | ----------------------------------------------- |
+| Specific AWS Services | Basics | Tips | Gotchas |
+| - | - | - | - |
 | [Security and IAM](#security-and-iam) | [📗](#security-and-iam-basics) | [📘](#security-and-iam-tips) | [📙](#security-and-iam-gotchas-and-limitations) |
-| [S3](#s3)                             | [📗](#s3-basics)               | [📘](#s3-tips)               | [📙](#s3-gotchas-and-limitations)               |
-| [EC2](#ec2)                           | [📗](#ec2-basics)              | [📘](#ec2-tips)              | [📙](#ec2-gotchas-and-limitations)              |
-| [CloudWatch](#cloudwatch)             | [📗](#cloudwatch-basics)       | [📘](#cloudwatch-tips)       | [📙](#cloudwatch-gotchas-and-limitations)       |
-| [AMIs](#amis)                         | [📗](#ami-basics)              | [📘](#ami-tips)              | [📙](#ami-gotchas-and-limitations)              |
-| [Auto Scaling](#auto-scaling)         | [📗](#auto-scaling-basics)     | [📘](#auto-scaling-tips)     | [📙](#auto-scaling-gotchas-and-limitations)     |
+| [S3](#s3) | [📗](#s3-basics) | [📘](#s3-tips) | [📙](#s3-gotchas-and-limitations) |
+| [EC2](#ec2) | [📗](#ec2-basics) | [📘](#ec2-tips) | [📙](#ec2-gotchas-and-limitations) |
+| [CloudWatch](#cloudwatch) | [📗](#cloudwatch-basics) | [📘](#cloudwatch-tips) | [📙](#cloudwatch-gotchas-and-limitations) |
+| [AMIs](#amis) | [📗](#ami-basics) | [📘](#ami-tips) | [📙](#ami-gotchas-and-limitations) |
+| [Auto Scaling](#auto-scaling) | [📗](#auto-scaling-basics) | [📘](#auto-scaling-tips) | [📙](#auto-scaling-gotchas-and-limitations) |
 
 - 📒 [FAQ](https://aws.amazon.com/cloudwatch/faqs/) ∙
   [Pricing](https://aws.amazon.com/cloudwatch/pricing/)
