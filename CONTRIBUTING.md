@@ -6,39 +6,42 @@ maintain it. (These are my own dev notes so I don’t have to remember all the c
 
 ## Developing
 
-To develop, make sure you’re running sources within Atom and are current:
+```sh
+# Clone the project.
+git clone …
+# Install dependencies.
+npm install
+```
 
-```bash
-# Uninstall if it's been isntalled before.
+## Testing
+
+```sh
+npm test
+```
+
+Tests are partially automated: `npm test` checks code-style and whether Flowmark
+does things.
+
+Tests will pass if *something* happened, you still need to manually review the
+changes carefully (`git diff`).
+
+Only change `testdoc.orig.md` or code, but never both at once in a commit.
+This allows careful review of formatting behavior changes.
+
+## Developing
+
+To try out your local changes to Flowmark manually, make sure that your have
+your local version of Flowmark in Atom:
+
+```sh
+# Uninstall if it's installed already.
 apm remove flowmark
-# Use local
-apm link .
-# Install.
-npm i
+# Use local.
+apm link
 ```
 
 After that, use Reload Window (Ctrl-Cmd-Option-L) to reload all of Atom and activate
 plugin.
-
-## Testing
-
-There are no fully automated unit tests, but there is a comprehensive test document that
-*must* be run manually to ensure Flowmark is operating correctly.
-
-Copy [testdoc.orig.md](tests/testdoc.orig.md) over [testdoc.flowmark.md](tests/testdoc.orig.md)
-then run Flowmark default formatting and save.
-Use git diff to review any churn is appropriate.
-In general changes should only
-
-Repeat if appropriate for other menu options:
-
-- copy over testdoc.footnote-norm.md and test “Normalize footnotes”
-- copy over testdoc.boldface-punc.md and test “Normalize punctuation boldfacing”
-
-Add these files to the PR, to allow review on any churn in behavior.
-
-Only change testdoc.orig.md or code, but never both at once in a commit.
-This allows careful review of formatting behavior changes.
 
 ## Publishing
 
