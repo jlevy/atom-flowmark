@@ -38,10 +38,10 @@ decisions for those who give and *receive it*. Blah blah blah and blah.
   updated 2017.
 - Alex MacCaw,
   [*An Engineer’s Guide to Stock Options*](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options),
-  2013\.
+  2013.
 - Andy Rachleff, Wealthfront,
   [*The 14 Crucial Questions about Stock Options*](https://blog.wealthfront.com/stock-options-14-crucial-questions),
-  2014\.
+  2014.
 
 ## Some apostrophes and quotes—and dashes, too
 
@@ -231,6 +231,7 @@ eye on.
   *Is there any acceleration of my vesting if the company is acquired?*
   *Do you have a policy regarding follow-on stock grants?*
   *Does the company have any repurchase right to vested shares?*
+
 - Finally, consider the [common scenarios](#common-scenarios) for exercising options, discussed
   below.
 
@@ -258,7 +259,6 @@ realize abnormally large returns (200%+).
   [**liquidation preference**](http://www.investopedia.com/terms/l/liquidation-preference.asp),
   meaning the preferred stock owner will be paid before the common stock owners upon
   liquidation.
-
   - [**Liquidation overhang**](https://equityzen.com/blog/startup-valuations-and-liquidation-preference-overhang/)
     can occur when the value of a company just doesn’t reach the number of dollars investors
     put into it. Because of liquidation preference, those holding preferred stock (investors)
@@ -288,7 +288,6 @@ realize abnormally large returns (200%+).
   particularly for well-known pre-IPO companies.
 
 - **NSOs**: You pay full taxes at exercise, and the sale is like any investment gain:
-
   - At grant and vesting:
     - No tax if granted at FMV
   - At exercise:
@@ -731,7 +730,7 @@ var x = 5;
 </div>
 
 | Specific AWS Services | Basics | Tips | Gotchas |
-| --------------------- | ------ | ---- | ------- |
+| - | - | - | - |
 | [Security and IAM](#security-and-iam) | [📗](#security-and-iam-basics) | [📘](#security-and-iam-tips) | [📙](#security-and-iam-gotchas-and-limitations) |
 | [S3](#s3) | [📗](#s3-basics) | [📘](#s3-tips) | [📙](#s3-gotchas-and-limitations) |
 | [EC2](#ec2) | [📗](#ec2-basics) | [📘](#ec2-tips) | [📙](#ec2-gotchas-and-limitations) |
