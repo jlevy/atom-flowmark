@@ -2,7 +2,7 @@
   "name": "flowmark",
   "main": "./lib/main",
   "version": "0.7.0",
-  "description": "An intelligent, collaboration-friendly auto-formatter for Markdown",
+  "description": "Markdown auto-formatting, beautification, and cleanup for Atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
@@ -20,7 +20,7 @@
   "author": "Joshua Levy <josh@holloway.com>",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.40.0 <2.0.0"
   },
   "dependencies": {
     "mdast-util-to-string": "^1.1.0",
