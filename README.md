@@ -7,8 +7,12 @@ It draws inspiration from auto-formatting as pioneered by
 implementations like [markdownfmt](https://github.com/shurcooL/markdownfmt), but also does
 some helpful new things related to wrapping lines for ease of reading and collaboration
 and cleaning up punctuation.
-It also has some optional tools like cleaning up common Markdown problems and
-“normalizing” footnotes.
+
+Flowmark started simply but has become an essential tool for editorial production at
+[Holloway](https://www.holloway.com/), where we consider powerful but lightweight processes
+for editing text essential.
+In addition to formatting, it offers a variety of tools like cleaning up common Markdown
+problems and “normalizing” footnotes, fixing punctuation, and many other things.
 
 ![Auto-format selection](images/screenshot.gif)
 
@@ -23,11 +27,15 @@ different heading styles, and the like.
 
 ## Flowmark Features
 
-- **Full markdown support:**
-  Full, deterministic auto-formatting of Markdown, based on
-  [Remark](https://github.com/remarkjs/remark), and wrapping lines based on practical
-  heuristics. This includes [YAML front-matter](https://jekyllrb.com/docs/front-matter/),
-  tables, and [footnotes](https://www.markdownguide.org/extended-syntax/#footnotes).
+- **Full Markdown support:**
+  Complete, deterministic auto-formatting of Markdown, based on
+  [Remark](https://github.com/remarkjs/remark). This includes
+  [YAML front-matter](https://jekyllrb.com/docs/front-matter/),
+  [math](https://github.com/remarkjs/remark-math), tables, and
+  [footnotes](https://www.markdownguide.org/extended-syntax/#footnotes).
+- **Line wrapping:**
+  Wraps lines based on practical heuristics to make content easier to read, maintain, diff,
+  and merge on GitHub.
 - **Typographic cleanups:**
   Converts ASCII quotes to smart quotes, dashes, and ellipses, to clean up
   [bad typewriter habits](https://practicaltypography.com/typewriter-habits.html) (based on
@@ -40,7 +48,8 @@ different heading styles, and the like.
   deterministic ids based on their contents.
   Usually footnotes are numbered (`[^1]`, `[^2]`, etc.)
   but this is problematic if you ever try to combine multiple Markdown documents into one.
-  This option makes that simple and easy if you run it before merging docs!
+  For examle if you combine multiple chapters of a book, what if both chapters have a `^1`
+  footnote? This option makes that simple and easy if you run it before merging docs.
 - **Fixes other formatting errors:**
   This includes menu options that allow:
   - Normalize punctuation boldfacing to make trailing terminating punctuation (any of the
@@ -51,7 +60,7 @@ different heading styles, and the like.
 
 ![Flowmark menu](images/flowmark-menu.png)
 
-## Why Also Auto-Wrap Lines in Markdown?
+## Why Auto-Wrap Lines in Markdown?
 
 The real challenge of collaborative editing in Markdown (and I’ve seen this a lot with
 projects of my own, like [TAOCL](https://github.com/jlevy/the-art-of-command-line)) is
