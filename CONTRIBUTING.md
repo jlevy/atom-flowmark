@@ -19,19 +19,19 @@ npm install
 npm test
 ```
 
-Tests are partially automated: `npm test` checks code-style and whether Flowmark
-does things.
+Tests are partially automated: `npm test`
+checks code-style and whether Flowmark does things.
 
-Tests will pass if *something* happened, you still need to manually review the
-changes carefully (`git diff`).
+Tests will pass if *something* happened.
+You still need to manually review the changes carefully (`git diff`)!
 
 Only change `testdoc.orig.md` or code, but never both at once in a commit.
 This allows careful review of formatting behavior changes.
 
 ## Developing
 
-To try out your local changes to Flowmark manually, make sure that your have
-your local version of Flowmark in Atom:
+To try out your local changes to Flowmark manually, make sure that your have your local
+version of Flowmark in Atom:
 
 ```sh
 # Uninstall if it's installed already.
