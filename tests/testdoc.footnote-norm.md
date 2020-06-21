@@ -509,8 +509,10 @@ And by contrast here a bare link is like this <https://www.google.com/>
 var x = 5;
 ```
 
-    This is
-    another.
+```
+This is
+another.
+```
 
 <div align="center">
 	<img src="images/rounds.png" alt="awesome">
