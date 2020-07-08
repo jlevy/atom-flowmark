@@ -69,6 +69,21 @@ $$
 And here is a formula in inline form as $L = \frac{1}{2} \rho v^2 S C_L$ with more text following.
 If the noteholders had converted their $420K at the 20% discount, they would be paying $\$0.55116 \times \$0.80$ per share, or $0.44093 per share. And $\$420K \div 0.44093$ is $952{,}532$ shares.
 
+## Legalese
+
+> ⚖️
+>
+> ↔️ CONVERTIBLE PROMISSORY NOTE
+>
+> Note Series: `___________________________`
+>
+> e. **Amendment and Waiver.**
+> Any term of this Note may be amended or waived with the written consent of Company and
+> the Majority Holders.
+>
+> f. **Governing Law; Venue.** This Note shall be governed by and construed under the laws of the State of `________`, as
+> applied to agreements among `_______` residents, made and to be performed entirely within the State of `______`, without giving effect to conflicts of laws principles. The venue for any dispute arising out of or related to this Note will lie exclusively in the state or federal courts located in King County, Washington, and the parties to this Note irrevocably waive any right to raise forum non conveniens or any other argument that King County, Washington is not the proper venue. The parties to this Note irrevocably consent to personal jurisdiction in the state and federal courts of the state of Washington.
+
 ## Wrapping tests
 
 ### Some wrapping
