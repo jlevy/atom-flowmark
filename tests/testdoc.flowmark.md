@@ -104,6 +104,15 @@ If the noteholders had converted their $420K at the 20% discount, they would be 
 > The parties to this Note irrevocably consent to personal jurisdiction in the state and
 > federal courts of the state of Washington.
 
+> iv. **Further Limitations on Disposition.**
+> Without in any way limiting the representations set forth above, the Holder further
+> agrees not to make any disposition of all or any portion of the Securities unless and
+> until:
+>
+> 1. There is then in effect a registration statement under the Act covering such proposed
+> disposition and such disposition is made in accordance with such registration statement;
+> or
+
 ## Wrapping tests
 
 ### Some wrapping

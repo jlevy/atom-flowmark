@@ -85,6 +85,16 @@ If the noteholders had converted their $420K at the 20% discount, they would be 
 > f. **Governing Law; Venue.** This Note shall be governed by and construed under the laws of the State of `________`, as
 > applied to agreements among `_______` residents, made and to be performed entirely within the State of `______`, without giving effect to conflicts of laws principles. The venue for any dispute arising out of or related to this Note will lie exclusively in the state or federal courts located in King County, Washington, and the parties to this Note irrevocably waive any right to raise forum non conveniens or any other argument that King County, Washington is not the proper venue. The parties to this Note irrevocably consent to personal jurisdiction in the state and federal courts of the state of Washington.
 
+> iv\. **Further Limitations on Disposition.**
+> Without in any way limiting the representations set forth above, the Holder further
+> agrees not to make any disposition of all or any portion of the Securities unless and
+> until:
+>
+> 1\. There is then in effect a registration statement under the Act covering such proposed
+> disposition and such disposition is made in accordance with such registration statement;
+> or
+
+
 ## Wrapping tests
 
 ### Some wrapping
