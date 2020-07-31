@@ -538,6 +538,15 @@ Links like these underline ones come up from some exports. And let's try some li
     candidates on the value proposition of a company and ensuring the
     alignment of interests between the two parties.
 
+[^multiparagraph]: This is an even longer footnote...
+
+    Paragraph 1.
+
+    > And even a
+    > block quote.
+
+    Paragraph 3.
+
 And by contrast here a bare link is like this https://www.google.com/
 
 ## Some other stuff

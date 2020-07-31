@@ -527,6 +527,14 @@ Links like these underline ones come up from some exports. And let's try some li
 
 [^thedistinc.pc5o6n.orphan]: The distinction between “hiring” and “recruiting” isn’t universally agreed upon. Some people think of hiring as a superset of recruiting, some consider it to be the other way around. However you think of it, both recruiting and hiring involve selling candidates on the value proposition of a company and ensuring the alignment of interests between the two parties.
 
+[^thisisanev.vlgibl.orphan]: This is an even longer footnote...
+
+    Paragraph 1.
+
+    > And even a block quote.
+
+    Paragraph 3.
+
 And by contrast here a bare link is like this <https://www.google.com/>
 
 ## Some other stuff

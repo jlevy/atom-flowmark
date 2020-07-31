@@ -755,6 +755,14 @@ And let’s try some links with angle brackets.
 
 [^multiline]: The distinction between “hiring” and “recruiting” isn’t universally agreed upon. Some people think of hiring as a superset of recruiting, some consider it to be the other way around. However you think of it, both recruiting and hiring involve selling candidates on the value proposition of a company and ensuring the alignment of interests between the two parties.
 
+[^multiparagraph]: This is an even longer footnote…
+
+    Paragraph 1.
+
+    > And even a block quote.
+
+    Paragraph 3.
+
 And by contrast here a bare link is like this
 <https://www.google.com/>
 
