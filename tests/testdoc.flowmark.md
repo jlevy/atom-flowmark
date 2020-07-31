@@ -31,7 +31,10 @@ decisions for those who give and *receive it*. Blah blah blah and blah.
   vested options and immediately sell a portion of them into the public market, removing the
   need for cash up front to exercise and pay taxes.
 
-### General resources
+- Filenames and packages: `some-package`
+  , `some-file.js` (to fit standard Node/npm conventions)
+
+### A subsection with some citations
 
 - Mark P. Cussen, Investopedia,
   [*Introduction To Incentive Stock Options*](http://www.investopedia.com/articles/stocks/12/introduction-incentive-stock-options.asp),
