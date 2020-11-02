@@ -276,6 +276,9 @@ introduction to legalities of running a company may wish to check out Clerky’s
 This number has steadily declined since 2002 levels of 12.3% and 23.2% respectively ([NCEO analysis](https://www.nceo.org/assets/pdf/articles/GSS-2014-data.pdf)
 of General Social Survey data).
 
+- **Visionary projects.**
+  Projects that were in a completely brand-new space without a precedent, going from 0 to 1.
+
 ### Boldface, italics, and links
 
 X [New York City](https://en.wikipedia.org/wiki/New_York_City).
