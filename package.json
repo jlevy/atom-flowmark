@@ -10,9 +10,10 @@
       "flowmark:reformatPlain",
       "flowmark:reformatWrap",
       "flowmark:smartQuotes",
-      "flowmark:normalizeFootnotes",
       "flowmark:normalizeHeadings",
       "flowmark:normalizeBoldface",
+      "flowmark:normalizeFootnotes",
+      "flowmark:normalizeFootnotesToFollowPunctuation",
       "flowmark:heavyCleanup"
     ]
   },

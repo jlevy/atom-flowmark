@@ -731,6 +731,8 @@ Spacing around footnotes can be confusing.[^a]
 Like this.[^a][^b] Or. [^a]
 [^b] This. [^a][^b][^c]
 
+And people often put them before punctuation like this[^a], or this[^a]. Or even this[^a][^b]? Perhaps.
+
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher
 threshold leverage to block an IPO.[^210]
 

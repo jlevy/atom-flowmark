@@ -23,16 +23,20 @@
               "command": "flowmark:smartQuotes"
             },
             {
-              "label": "Normalize footnotes",
-              "command": "flowmark:normalizeFootnotes"
-            },
-            {
               "label": "Normalize headings to Title Case",
               "command": "flowmark:normalizeHeadings"
             },
             {
               "label": "Normalize punctuation boldfacing",
               "command": "flowmark:normalizeBoldface"
+            },
+            {
+              "label": "Normalize footnotes to follow punctuation",
+              "command": "flowmark:normalizeFootnotesToFollowPunctuation"
+            },
+            {
+              "label": "Normalize footnote identifiers",
+              "command": "flowmark:normalizeFootnotes"
             },
             {
               "label": "Heavy cleanup (exported pandoc/GDocs)",
