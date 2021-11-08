@@ -1,7 +1,7 @@
 {
   "name": "flowmark",
   "main": "./lib/main",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Markdown auto-formatting, beautification, and cleanup for Atom",
   "keywords": [],
   "activationCommands": {
