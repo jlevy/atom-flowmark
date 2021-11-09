@@ -59,3 +59,5 @@ listed in package.json) it fails in a painful way because it has done the local 
 tag, but then fails.
 So you need to `git reset --hard` and `git tag -d` the new tag and start again.
 Using ssh auth now as that works more reliably for me.
+
+Finally make a release and release notes off the tag on GitHub.
