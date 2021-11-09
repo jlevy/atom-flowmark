@@ -508,7 +508,8 @@ To create an effective story, you have to consider what motivates the recipient 
 
 Spacing around footnotes can be confusing.[^a.missing] Like this.[^a.missing][^b.missing] Or. [^a.missing] [^b.missing] This. [^a.missing][^b.missing][^c.missing]
 
-And people often put them before punctuation like this[^a.missing], or this[^a.missing]. Or even this[^a.missing][^b.missing]? Perhaps.
+And people often put them before punctuation like this[^a.missing], or this[^a.missing]. Or even this[^a.missing][^b.missing]? Perhaps by
+**15% to 25%**[^freeincome.2b5cob.missing], pretty quickly (but we’re not complaining)[^urbanthowt.wy49lp.missing].
 
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^fm16p80.lm4ika]
 
