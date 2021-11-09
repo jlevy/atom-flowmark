@@ -509,6 +509,8 @@ To create an effective story, you have to consider what motivates the recipient 
 
 Spacing around footnotes can be confusing.[^a] Like this.[^a][^b] Or. [^a] [^b] This. [^a][^b][^c]
 
+And people often put them before punctuation like this[^a], or this[^a]. Or even this[^a][^b]? Perhaps.
+
 ❗️️️ Having multiple automatic conversion thresholds can give the investor with a higher threshold leverage to block an IPO.[^210]
 
 [^2]: Aulet, Bill. *Disciplined Entrepreneurship*: 24 Steps to a Successful Startup (Kindle Location 1220). Wiley, 2013. Kindle Edition.
