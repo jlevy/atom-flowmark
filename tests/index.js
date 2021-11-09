@@ -10,7 +10,7 @@ var flowmark = require('..');
 var {join, resolve} = path;
 
 test('flowmark', function(t) {
-  t.plan(3);
+  t.plan(4);
 
   atom.workspace.destroyActivePaneItem();
   flowmark.activate();
@@ -22,6 +22,13 @@ test('flowmark', function(t) {
 
     .then(() => check(t, 'flowmark', 'flowmark:standard'))
     .then(() => check(t, 'footnote-norm', 'flowmark:normalizeFootnotes'))
+    .then(() =>
+      check(
+        t,
+        'footnotes-to-follow-punc',
+        'flowmark:normalizeFootnotesToFollowPunctuation'
+      )
+    )
     .then(() => check(t, 'boldface-punc', 'flowmark:normalizeBoldface'));
 });
 

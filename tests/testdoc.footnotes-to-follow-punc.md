@@ -113,7 +113,7 @@ the Center for American Entrepreneurship.)
 
 ### A few paragraphs and bullets
 
-A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of course, in reality, varied experience exists within an individual reader. Most people may already know *something*, and some people are quicker learners than others. Even world class experts most likely only really know parts of a subject, and contributors may have practical experience in one role--perhaps they have been an entrepreneur, for example, but not an investor. So writing with the assumption that each reader could be both has a variety of advantages:  
+A good heuristic is to assume your readers will be **100% intelligent and 100% ignorant**. Of course, in reality, varied experience exists within an individual reader. Most people may already know *something*, and some people are quicker learners than others. Even world class experts most likely only really know parts of a subject, and contributors may have practical experience in one role--perhaps they have been an entrepreneur, for example, but not an investor. So writing with the assumption that each reader could be both has a variety of advantages:
 
 - Assuming 100% ignorance will help people who think they know a lot about a subject understand **what they didn't know they didn't know**, and fill in the gaps in their knowledge. It encourages contribution from experts and people with practical experience.
 - Assuming 100% intelligence makes readers feel respected, and feel proud to be associated with the material. It will incline beginners to contribute their feedback.
